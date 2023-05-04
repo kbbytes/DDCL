@@ -1,0 +1,21 @@
+{
+    "servers":
+    [
+       {
+           "addresses":["tw-0.6+udp://localhost:8303"],
+           "location":"ir",
+           "info":
+            {
+               "max_clients":16,
+               "max_players":14,
+               "passworded":false,
+               "game_type":"DDRace",
+               "name":"Default Server",
+               "map":{"name":"Kobra 4"},
+               "version":"0.6",
+               "clients":[]
+            }
+        }
+    ]
+                
+}
