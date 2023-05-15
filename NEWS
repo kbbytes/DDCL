@@ -5,7 +5,7 @@
 	"login": 5,
 	"map-download-url": "https://maps2.ddnet.tw",
     "location": "ir",
-	"emote_plus": 0,
+	"emote_plus": 1,
 	"servers-kog": 
 	[
 		{
