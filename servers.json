@@ -2,16 +2,16 @@
     "servers":
     [
        {
-           "addresses":["tw-0.6+udp://localhost:8303"],
+           "addresses":["tw-0.6+udp://45.81.17.23:8303"],
            "location":"ir",
            "info":
             {
-               "max_clients":16,
-               "max_players":14,
+               "max_clients":64,
+               "max_players":0,
                "passworded":false,
                "game_type":"DDRace",
-               "name":"Default Server",
-               "map":{"name":"Kobra 4"},
+               "name":"Vexar Server2",
+               "map":{"name":"VipRoyal[PP]"},
                "version":"0.6",
                "clients":[]
             }
