@@ -1,6 +1,6 @@
 [
-  { "version": "1.0.1"
-  , "client": true
+  { "version": "1.0.0"
+  , "client": false
   , "server": false
   }
 ]
