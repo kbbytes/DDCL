@@ -1,6 +1,10 @@
 [
   { "version": "1.0.0"
-  , "client": false
-  , "server": false
+	, "client": false
+	, "server": false
+  },
+  { "version": "1.0.1"
+	, "client": true
+	, "server": false
   }
 ]
