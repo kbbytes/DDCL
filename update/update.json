@@ -1,4 +1,9 @@
 [
+  { "version": "1.0.7"
+    , "client": true
+    , "server": false
+    , "download": [ "data/gui_logo.png"]
+  },
   {
     "version": "1.0.4",
     "client": true,
