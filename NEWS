@@ -4,7 +4,7 @@
 	  "name": "IRN",
 	  "flagId": 364,
 	  "servers": {
-		"Lobby": [
+		"Tutorial": [
 		  "localhost:8303",
 		],
 		"DDrace": [
