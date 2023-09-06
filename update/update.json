@@ -1,4 +1,12 @@
 [
+  { "version": "1.1.2"
+    , "client": true
+    , "server": false
+	, "download": [
+		"data/gui_logo.png", "data/iranddnet/extra/teecoin.png", "data/iranddnet/extra/clantag.png", "data/iranddnet/extra/moder.png", "data/iranddnet/extra/premium.png", "data/iranddnet/extra/rainbowname.png", 
+		"data/iranddnet/extra/vip.png", "data/iranddnet/extra/vip+.png", "data/iranddnet/extra/vip++.png"
+	]
+  },
   { "version": "1.1.1"
     , "client": true
     , "server": false
