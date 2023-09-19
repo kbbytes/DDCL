@@ -1,8 +1,5 @@
 ##### authors #####
-#	OneShadow		2016-03-27
-#	Quick			2020-07-12
-#	younesdevil		2021-12-07
-#	Player			2023-01-26
+#	IranDDNet	2023-09-14
 ##### /authors #####
 
 ##### translated strings #####
@@ -42,6 +39,9 @@ Address
 
 All
 == ﻪﻤﻫ
+
+Online players (%d)
+== بازیکنان آنلاین (%d)
 
 Are you sure that you want to quit?
 == ؟ﺪﯾﻮﺷ ﺝﺭﺎﺧ ﺪﯿﻫﺍﻮﺧ ﯽﻣ ﻪﻛ ﺪﯿﺘﺴﻫ ﻦﺌﻤﻄﻣ ﺎﯾﺁ
@@ -312,7 +312,7 @@ Please balance teams!
 == ﺪﯿﻨﮐ ﻝﺩﺎﻌﺘﻣ ﺍﺭ ﺎﻫ ﻢﯿﺗ ﺎﻔﻄﻟ
 
 Reason:
-== ﻞﯿﻟﺩ
+== :ﻞﯿﻟﺩ
 
 Vote yes
 == ﺖﺒﺜﻣ ﯼﺍﺭ
@@ -324,7 +324,7 @@ Spectate
 == ﻥﺩﺮﮐ ﺎﺷﺎﻤﺗ
 
 Server best:
-== ﺭﻭﺮﺳ ﻦﯾﺮﺘﻬﺑ
+== :ﺭﻭﺮﺳ ﻦﯾﺮﺘﻬﺑ
 
 Reset
 == ﺖﺴﯾﺭ
@@ -350,8 +350,8 @@ Browser
 Ghost
 == ﺡﻭﺭ ﺖﻟﺎﺣ 
 
-Loading DDNet Client
-== ﺖﻨﯾﺪﯾﺩ ﺖﻨﯾﻼﮐ ﻥﺩﺮﮐ ﻩﺩﺎﻣﺁ ﻝﺎﺣﺭﺩ
+Loading Iran DDNet Client
+== ﺖﻨﯾﺪﯾﺩ ﻥﺍﺮﯾﺍ ﺖﻨﯾﻼﮐ ﻥﺩﺮﮐ ﻩﺩﺎﻣﺁ ﻝﺎﺣ ﺭﺩ
 
 Reconnect in %d sec
 == ﻪﯿﻧﺎﺛ %d ﺭﺩ ﻩﺭﺎﺑﻭﺩ ﻝﺎﺼﺗﺍ
@@ -419,7 +419,7 @@ Unable to rename the demo
 == ﺩﺭﺍﺪﻧ ﺩﻮﺟﻭ ﻮﻣﺩ ﻡﺎﻧ ﺮﯿﯿﻐﺗ ﻥﺎﮑﻣﺍ
 
 New name:
-== ﺪﯾﺪﺟ ﻢﺳﺍ
+== :ﺪﯾﺪﺟ ﻢﺳﺍ
 
 Show chat
 == ﺖﭼ ﺶﯾﺎﻤﻧ
@@ -434,7 +434,7 @@ Show ingame HUD
 == ﯼﺯﺎﺑ ﺭﺩ HUD ﻥﺩﺍﺩ ﻥﺎﺸﻧ
 
 Video name:
-== ﻮﯾﺪﯾﻭ ﻢﺳﺍ
+== :ﻮﯾﺪﯾﻭ ﻢﺳﺍ
 
 Show DDNet map finishes in server browser
 == ﺪﯾﺍ ﻩﺪﻧﺎﺳﺭ ﻡﺎﻤﺗﺍ ﻪﺑ ﻪﮐ ﯽﯾﺎﻫ ﭗﻣ ﻥﺩﺍﺩ ﻥﺎﺸﻧ
@@ -467,7 +467,7 @@ Exclude
 == ﻦﮑﯾﺯﺎﺑ %d
 
 Server address:
-== ﺭﻭﺮﺳ ﺱﺭﺩﺁ
+== :ﺭﻭﺮﺳ ﺱﺭﺩﺁ
 
 Refresh
 == ﯼﺯﺎﺳ ﻩﺯﺎﺗ
@@ -485,7 +485,7 @@ Strict gametype filter
 == ﯼﺯﺎﺑ ﻉﻮﻧ ﻪﺘﻓﺮﺸﯿﭘ ﺮﺘﻠﯿﻓ
 
 Player country:
-== ﻦﮑﯾﺯﺎﺑ ﺭﻮﺸﮐ
+== :ﻦﮑﯾﺯﺎﺑ ﺭﻮﺸﮐ
 
 Filter connecting players
 == ﻝﺎﺼﺗﺍ ﻝﺎﺣﺭﺩ ﻥﺎﻨﮑﯾﺯﺎﺑ ﻥﺩﺮﮐ ﺮﺘﻠﯿﻓ
@@ -1211,9 +1211,6 @@ Reset controls
 Are you sure that you want to reset the controls to their defaults?
 == ؟ﺪﯿﻧﺍﺩﺮﮔﺯﺎﺑ ﺽﺮﻓ ﺶﯿﭘ ﺖﻟﺎﺣ ﻪﺑ ﺍﺭ ﺎﻫ ﻝﺮﺘﻨﮐ ﺪﯿﻫﺍﻮﺧ ﯽﻣ ﻪﮐ ﺪﯿﺘﺴﻫ ﻦﺌﻤﻄﻣ ﺎﯾﺁ
 
-Dummy
-== ﯽﻣﺍﺩ
-
 Windowed
 == ﯼﺍ ﻩﺮﺠﻨﭘ
 
@@ -1741,3 +1738,680 @@ Grabs
 
 Moved ingame
 == 
+
+Login
+== ﺩﻭﺭﻭ
+
+Register
+== ﻡﺎﻧ ﺖﺒﺛ
+
+Your token code: '^y%s^w'
+== '^y%s^w' :ﺎﻤﺷ ﻦﮐﻮﺗ ﺪﮐ
+
+Keep it safe and don't share your code!
+== !ﺪﯾﺭﺍﺬﮕﻧ ﮎﺍﺮﺘﺷﺍ ﻪﺑ ﯽﺴﮐ ﺎﺑ ﻭ ﺪﯿﻨﮐ ﯼﺭﺍﺩ ﻪﮕﻧ ﻦﻣﺍ ﯽﯾﺎﺟ ﺭﺩ ﺍﺭ ﻥﺁ
+
+Click on '^gCopy^w' and save it!
+== .ﺪﯿﻨﮐ ﮏﯿﻠﮐ '^gﯽﭙﮐ^w' ﯼﻭﺭ ﺮﺑ
+
+Register successfully, Your token code copied successfully, You can login now!
+== !ﺪﯾﻮﺷ ﺩﺭﺍﻭ ﺪﯿﻧﺍﻮﺘﯿﻣ ،ﺪﺷ ﯽﭙﮐ ﺎﻤﺷ ﻦﮐﻮﺗ ﺪﮐ ،ﺪﺷ ﻡﺎﺠﻧﺍ ﻡﺎﻧ ﺖﺒﺛ
+
+Register failed, That user already exists, change entered user or email!
+== !ﺩﺭﺍﺩ ﺩﻮﺟﻭ ﺕﺎﺼﺨﺸﻣ ﻦﯾﺍ ﺎﺑ ﯽﺘﻧﺎﮐﺍ ،ﻩﺩﻮﺑ ﻖﻓﻮﻣﺎﻧ ﻡﺎﻧ ﺖﺒﺛ
+
+Register failed, You can't create anymore account on this pc!
+== !ﺪﯾﺯﺎﺴﺑ ﯼﺪﯾﺪﺟ ﺖﻧﺎﮐﺍ ﻪﻧﺎﯾﺍﺭ ﻦﯾﺍ ﯼﻭﺭ ﺮﺑ ﺪﯿﻧﺍﻮﺘﯿﻤﻧ ،ﻩﺩﻮﺑ ﻖﻓﻮﻣﺎﻧ ﻡﺎﻧ ﺖﺒﺛ
+
+Login to your account!
+== !ﺩﻮﺧ ﺖﻧﺎﮐﺍ ﻪﺑ ﺩﻭﺭﻭ
+
+Username %s
+== ﯼﺮﺑﺭﺎﮐ ﻡﺎﻧ %s
+
+for example: user25
+== user25 :ﻝﺎﺜﻣ ﯼﺍﺮﺑ
+
+Password %s
+== ﺭﻮﺒﻋ ﺰﻣﺭ %s
+
+Remember me?
+== ؟ﺭﺎﭙﺴﺑ ﺮﻃﺎﺧ ﻪﺑ ﺍﺮﻣ
+
+Login successfully!
+== !ﺪﯾﺪﺷ ﺩﺭﺍﻭ ﺖﯿﻘﻓﻮﻣ ﺎﺑ
+
+Welcome Back, %s
+== ,ﯽﺘﺸﮔﺮﺑ ﺵﻮﺧ %s
+
+Your Balance: %s
+== %s :ﺎﻤﺷ ﯼﺩﻮﺟﻮﻣ
+
+Profile
+== ﺕﺎﺼﺨﺸﻣ
+
+My Services
+== ﻦﻣ ﯼﺎﻫ ﺲﯾﻭﺮﺳ
+
+Teecoin Transactions
+== Teecoin ﺕﻼﻣﺎﻌﻣ
+
+User ID: %d
+== %d :ﺮﺑﺭﺎﮐ ﻪﺳﺎﻨﺷ 
+
+Email Address: %s
+== %s :ﻞﯿﻤﯾﺍ ﺱﺭﺩﺁ 
+
+Register Date: %s
+== %s :ﻡﺎﻧ ﺖﺒﺛ ﺦﯾﺭﺎﺗ 
+
+Logout
+== ﺝﻭﺮﺧ
+
+Block
+== ﮎﻼﺑ
+
+SunnyLand
+== ﺪﻨﻟ ﯽﻧﺎﺳ
+
+Extra
+== ﯽﻓﺎﺿﺍ
+
+Main
+== ﯽﻠﺻﺍ
+
+There is no service(s) for you!
+== !ﺖﺴﯿﻧ ﺩﻮﺟﻮﻣ ﺎﻤﺷ ﯼﺍﺮﺑ ﯽﺗﺎﻣﺪﺧ ﭻﯿﻫ
+
+There is no service(s) for you on 'Block'!
+== هیچ خدماتی برای شما در 'بلاک' موجود نیست!
+
+There is no service(s) for you on 'SunnyLand'!
+== !ﺖﺴﯿﻧ ﺩﻮﺟﻮﻣ 'ﺪﻨﻟ ﯽﻧﺎﺳ' ﺭﺩ ﺎﻤﺷ ﯼﺍﺮﺑ ﯽﺗﺎﻣﺪﺧ ﭻﯿﻫ
+
+There is no service(s) for you on 'Extra'!
+== !ﺖﺴﯿﻧ ﺩﻮﺟﻮﻣ 'ﯽﻓﺎﺿﺍ' ﺭﺩ ﺎﻤﺷ ﯼﺍﺮﺑ ﯽﺗﺎﻣﺪﺧ ﭻﯿﻫ
+
+There is no service(s) for your dummy!
+== !ﺖﺴﯿﻧ ﺩﻮﺟﻮﻣ ﺎﻤﺷ ﯽﻣﺍﺩ ﯼﺍﺮﺑ ﯽﺗﺎﻣﺪﺧ ﭻﯿﻫ
+
+There is no service(s) for your dummy on 'Block'!
+== !ﺖﺴﯿﻧ ﺩﻮﺟﻮﻣ 'ﮎﻼﺑ' ﺭﺩ ﺎﻤﺷ ﯽﻣﺍﺩ ﯼﺍﺮﺑ ﯽﺗﺎﻣﺪﺧ ﭻﯿﻫ
+
+There is no service(s) for your dummy on 'SunnyLand'!
+== !ﺖﺴﯿﻧ ﺩﻮﺟﻮﻣ 'ﺪﻨﻟ ﯽﻧﺎﺳ' ﺭﺩ ﺎﻤﺷ ﯽﻣﺍﺩ ﯼﺍﺮﺑ ﯽﺗﺎﻣﺪﺧ ﭻﯿﻫ
+
+There is no service(s) for your dummy on 'Extra'!
+== !ﺖﺴﯿﻧ ﺩﻮﺟﻮﻣ 'ﯽﻓﺎﺿﺍ' ﺭﺩ ﺎﻤﺷ ﯽﻣﺍﺩ ﯼﺍﺮﺑ ﯽﺗﺎﻣﺪﺧ ﭻﯿﻫ
+
+Welcome Back, %s (DUMMY)
+== (ﯽﻣﺍﺩ) %s ،ﯽﺘﺸﮔﺮﺑ ﺵﻮﺧ
+
+Transaction ID: 
+== ﺶﻨﮐﺍﺮﺗ ﻪﺳﺎﻨﺷ:
+
+Transaction Method: 
+== ﻪﻠﻣﺎﻌﻣ ﻩﻮﺤﻧ:
+
+Transaction Amount: 
+== ﺶﻨﮐﺍﺮﺗ ﺭﺍﺪﻘﻣ:
+
+Balance: 
+== ﯼﺩﻮﺟﻮﻣ:
+
+Currency: 
+== ﻝﻮﭘ ﺪﺣﺍﻭ:
+
+Transaction Details: 
+== ﻪﻠﻣﺎﻌﻣ ﺕﺎﯿﺋﺰﺟ:
+
+Transaction Date: 
+== ﻪﻠﻣﺎﻌﻣ ﺦﯾﺭﺎﺗ:
+
+Transaction IP: 
+== IP ﺶﻨﮐﺍﺮﺗ:
+
+Transaction Mac: 
+== ﺶﻨﮐﺍﺮﺗ ﮏﻣ:
+
+Transaction PcName: 
+== ﺶﻨﮐﺍﺮﺗ ﺮﺗﻮﯿﭙﻣﺎﮐ ﻡﺎﻧ:
+
+Ownership
+== ﺖﯿﮑﻟﺎﻣ:
+
+Your Revoke Charges: 
+== ﺎﻤﺷ ﻮﻐﻟ ﺯﻮﺠﻣ ﺩﺍﺪﻌﺗ:
+
+Last Revoke Date: 
+== ﻮﻐﻟ ﻦﯾﺮﺧﺁ ﺦﯾﺭﺎﺗ:
+
+Membership Revoke: 
+== ﺖﯾﻮﻀﻋ ﻮﻐﻟ:
+
+Revoke Now
+== ﻦﮐ ﻮﻐﻟ ﻥﻻﺍ ﻦﯿﻤﻫ
+
+Phone Number
+== ﻦﻔﻠﺗ ﻩﺭﺎﻤﺷ
+
+^gPhone number registered, Reward claimed!^w
+== ^g!ﺪﺷ ﺖﻓﺎﯾﺭﺩ ﺵﺍﺩﺎﭘ ،ﺪﺷ ﺖﺒﺛ ﻦﻔﻠﺗ ﻩﺭﺎﻤﺷ^w
+
+Registered phone number: ^p%s^w
+== ^p%s ^w:ﻩﺪﺷ ﻡﺎﻧ ﺖﺒﺛ ﻞﯾﺎﺑﻮﻣ ﻩﺭﺎﻤﺷ
+
+Users
+== ﻥﺍﺮﺑﺭﺎﮐ
+
+Shop
+== ﻩﺎﮕﺷﻭﺮﻓ
+
+Reward
+== ﺵﺍﺩﺎﭘ
+
+Options
+== ﺕﺎﻤﯿﻈﻨﺗ
+
+Enter User ID
+== ﺪﯿﻨﮐ ﺩﺭﺍﻭ ﺍﺭ ﯼﺮﺑﺭﺎﮐ ﻪﺳﺎﻨﺷ
+
+Find
+== ﻦﮐ ﺍﺪﯿﭘ
+
+Edit Service
+== ﺲﯾﻭﺮﺳ ﺶﯾﺍﺮﯾﻭ
+
+Edit Config
+== ﮓﯿﻔﻧﺎﮐ ﺶﯾﺍﺮﯾﻭ
+
+Info
+== ﺕﺎﻋﻼﻃﺍ
+
+Enter Service ID
+== ﺪﯿﻨﮐ ﺩﺭﺍﻭ ﺍﺭ ﺲﯾﻭﺮﺳ ﻪﺳﺎﻨﺷ
+
+Enter Config ID
+== ﺪﯿﻨﮐ ﺩﺭﺍﻭ ﺍﺭ ﮓﯿﻔﻧﺎﮐ ﻪﺳﺎﻨﺷ
+
+Services
+== ﺎﻫ ﺲﯾﻭﺮﺳ
+
+Service ID: 
+== ﺲﯾﻭﺮﺳ ﻪﺳﺎﻨﺷ:
+
+Name: 
+== ﻡﺎﻧ:
+
+Type: 
+== ﻉﻮﻧ:
+
+Price: 
+== ﺖﻤﯿﻗ:
+
+Status: 
+== ﺖﯿﻌﺿﻭ:
+
+^gActive
+== ^gﻝﺎﻌﻓ
+
+^rDeactive
+== ^rﻝﺎﻌﻓﺮﯿﻏ
+
+Configs
+== ﺎﻫ ﮓﯿﻔﻧﺎﮐ
+
+Config ID: 
+== ﮓﯿﻔﻧﺎﮐ ﻪﺳﺎﻨﺷ:
+
+Config Key: 
+== ﮓﯿﻔﻧﺎﮐ ﺪﯿﻠﮐ:
+
+Config Value: 
+== ﮓﯿﻔﻧﺎﮐ ﺵﺯﺭﺍ:
+
+ACP Options
+== ACP ﺕﺎﻤﯿﻈﻨﺗ
+
+Transactions load limit
+== ﺶﻨﮐﺍﺮﺗ ﺶﯾﺎﻤﻧ ﺖﯾﺩﻭﺪﺤﻣ
+
+Apply Reward
+== ﺵﺍﺩﺎﭘ ﻝﺎﻤﻋﺍ
+
+Enter Reward Amount
+== ﺪﯿﻨﮐ ﺩﺭﺍﻭ ﺍﺭ ﺵﺍﺩﺎﭘ ﺭﺍﺪﻘﻣ
+
+Enter Reward Add Reason
+== ﺪﯿﻨﮐ ﺩﺭﺍﻭ ﺍﺭ ﺵﺍﺩﺎﭘ ﻥﺩﺮﮐ ﻪﻓﺎﺿﺍ ﻞﯿﻟﺩ
+
+Apply
+== ﻝﺎﻤﻋﺍ
+
+Cancel
+== ﻮﻐﻟ
+
+Update Profile
+== ﺕﺎﺼﺨﺸﻣ ﯽﻧﺎﺳﺭﺯﻭﺮﺑ
+
+ID: 
+== ﻪﺳﺎﻨﺷ:
+
+Username: 
+== ﯼﺮﺑﺭﺎﮐ ﻡﺎﻧ:
+
+Email: 
+== ﻞﯿﻤﯾﺍ:
+
+for example: user@gmail.com
+== user@gmail.com ﻝﺎﺜﻣ ﯼﺍﺮﺑ:
+
+Nickname: 
+== ﺐﻘﻟ:
+
+for example: NamelessTee
+== NamelessTee ﻝﺎﺜﻣ ﯼﺍﺮﺑ:
+
+Teecoin: 
+== 
+
+for example: 100
+== 100 ﻝﺎﺜﻣ ﯼﺍﺮﺑ:
+
+Register Date: 
+== ﻡﺎﻧ ﺖﺒﺛ ﺦﯾﺭﺎﺗ:
+
+Rank: 
+== ﻡﺎﻘﻣ
+
+for example: 2
+== 2 ﻝﺎﺜﻣ ﯼﺍﺮﺑ:
+
+Revoke: 
+== ﻮﻐﻟ ﺯﻮﺠﻣ:
+
+for example: 1
+== 1 ﻝﺎﺜﻣ ﯼﺍﺮﺑ:
+
+Abilities
+== ﺎﻫ ﯽﯾﺎﻧﺍﻮﺗ
+
+Ability ID: 
+== ﯽﯾﺎﻧﺍﻮﺗ ﻪﺳﺎﻨﺷ
+
+User ID: 
+== ﯼﺮﺑﺭﺎﮐ ﻪﺳﺎﻨﺷ:
+
+Clan Tag: 
+== ﻪﻠﯿﺒﻗ ﺐﺴﭼﺮﺑ:
+
+for example: killer
+== killer ﻝﺎﺜﻣ ﯼﺍﺮﺑ:
+
+Nitro Tee: 
+== 
+
+Emote Plus: 
+== Emote Plus:
+
+Rainbow Name: 
+== 
+
+Pet Tee: 
+== 
+
+Dummy Clan Tag: 
+== 
+
+Dummy Nitro Tee: 
+== 
+
+Dummy Emote Plus: 
+== 
+
+Dummy Rainbow Name: 
+== 
+
+Dummy Pet Tee: 
+== 
+
+Update Service
+== ﺲﯾﻭﺮﺳ ﯽﻧﺎﺳﺭﺯﻭﺮﺑ
+
+Service
+== ﺲﯾﻭﺮﺳ
+
+for example: Vip
+== Vip ﻝﺎﺜﻣ ﯼﺍﺮﺑ:
+
+for example: Block
+== Block ﻝﺎﺜﻣ ﯼﺍﺮﺑ:
+
+Detail: 
+== ﺕﺎﯿﺋﺰﺟ:
+
+for example: explaination of your service
+== ﺎﻤﺷ ﺲﯾﻭﺮﺳ ﺕﺎﺤﯿﺿﻮﺗ :ﻝﺎﺜﻣ ﯼﺍﺮﺑ
+
+for example: 250
+== 250 ﻝﺎﺜﻣ ﯼﺍﺮﺑ:
+
+ImageID: 
+== ﺮﯾﻮﺼﺗ ﻪﺳﺎﻨﺷ:
+
+for example: 27
+== 27 :ﻝﺎﺜﻣ ﯼﺍﺮﺑ
+
+Active: 
+== ﻝﺎﻌﻓ:
+
+Update Config
+== ﮓﯿﻔﻧﺎﮐ ﯽﻧﺎﺳﺯﻭﺮﺑ:
+
+Config
+== ﮓﯿﻔﻧﺎﮐ:
+
+for example: MaxOrders
+== MaxOrders :ﻝﺎﺜﻣ ﯼﺍﺮﺑ
+
+for example: 10
+== 10 :ﻝﺎﺜﻣ ﯼﺍﺮﺑ
+
+^g30 Days ^w%s
+== ^gﺯﻭﺭ 30 ^w%s
+
+Buy
+== ﺪﯾﺮﺧ
+
+In Stock: %d
+== %d :ﺭﺎﺒﻧﺍ ﺭﺩ
+
+Purchase Failed
+== ﺩﻮﺑ ﻖﻓﻮﻣﺎﻧ ﺪﯾﺮﺧ
+
+Your wallet's funds is not enough for purchase this item please visit our website for refunds your wallet.
+== .ﺪﯿﻨﮐ ﻪﻌﺟﺍﺮﻣ ﺎﻣ ﺖﯾﺎﺳ ﺏﻭ ﻪﺑ ﺩﻮﺧ ﻝﻮﭘ ﻒﯿﮐ ﯼﺩﻮﺟﻮﻣ ﺶﯾﺍﺰﻓﺍ ﯼﺍﺮﺑ ﺎﻔﻄﻟ ،ﺖﺴﯿﻧ ﯽﻓﺎﮐ ﻢﺘﯾﺁ ﻦﯾﺍ ﺪﯾﺮﺧ ﯼﺍﺮﺑ ﺎﻤﺷ ﻝﻮﭘ ﻒﯿﮐ ﯼﺩﻮﺟﻮﻣ
+
+Ok
+== ﻪﺷﺎﺑ
+
+You already have activated service from 'Block' shop, can't order more!
+== !ﺪﯿﻫﺩ ﺵﺭﺎﻔﺳ ﺮﺘﺸﯿﺑ ﺪﯿﻧﺍﻮﺘﯿﻤﻧ ،ﺪﯾﺭﺍﺩ ﻝﺎﻌﻓ ﺲﯾﻭﺮﺳ ﺎﻤﺷ 'ﮎﻼﺑ' ﺶﺨﺑ ﺭﺩ
+
+Purchase Done
+== ﺪﺷ ﻡﺎﺠﻧﺍ ﺪﯾﺮﺧ
+
+Enjoy of your new purchase!
+== !ﺪﯾﺮﺒﺑ ﺕﺬﻟ ﺩﻮﺧ ﺪﯾﺪﺟ ﺪﯾﺮﺧ ﺯﺍ
+
+Purchase Done (DUMMY)
+== (ﯽﻣﺍﺩ) ﺪﺷ ﻡﺎﺠﻧﺍ ﺪﯾﺮﺧ
+
+Enjoy of your new purchase for your dummy!
+== !ﺪﯾﺮﺒﺑ ﺕﺬﻟ ﺩﻮﺧ ﯽﻣﺍﺩ ﯼﺍﺮﺑ ﺩﻮﺧ ﺪﯾﺪﺟ ﺪﯾﺮﺧ ﺯﺍ
+
+You already have activated service for your dummy from 'Block' shop, can't order more!
+== !ﺪﯿﻫﺩ ﺵﺭﺎﻔﺳ ﺮﺘﺸﯿﺑ ﺪﯿﻧﺍﻮﺘﯿﻤﻧ ،ﺪﯾﺭﺍﺩ ﺩﻮﺧ ﯽﻣﺍﺩ ﯼﺍﺮﺑ ﻝﺎﻌﻓ ﺲﯾﻭﺮﺳ ﺎﻤﺷ 'ﮎﻼﺑ' ﺶﺨﺑ ﺭﺩ
+
+You already have activated service for your dummy from 'SunnyLand' shop, can't order more!
+== !ﺪﯿﻫﺩ ﺵﺭﺎﻔﺳ ﺮﺘﺸﯿﺑ ﺪﯿﻧﺍﻮﺘﯿﻤﻧ ،ﺪﯾﺭﺍﺩ ﺩﻮﺧ ﯽﻣﺍﺩ ﯼﺍﺮﺑ ﻝﺎﻌﻓ ﺲﯾﻭﺮﺳ ﺎﻤﺷ 'ﺪﻨﻟ ﯽﻧﺎﺳ' ﺶﺨﺑ ﺭﺩ
+
+You already have activated service from 'SunnyLand' shop, can't order more!
+== !ﺪﯿﻫﺩ ﺵﺭﺎﻔﺳ ﺮﺘﺸﯿﺑ ﺪﯿﻧﺍﻮﺘﯿﻤﻧ ،ﺪﯾﺭﺍﺩ ﻝﺎﻌﻓ ﺲﯾﻭﺮﺳ ﺎﻤﺷ 'ﺪﻨﻟ ﯽﻧﺎﺳ' ﺶﺨﺑ ﺭﺩ
+
+You already have this service on your account!
+== !ﺪﯾﺭﺍﺩ ﺩﻮﺧ ﺏﺎﺴﺣ ﺭﺩ ﺍﺭ ﺲﯾﻭﺮﺳ ﻦﯾﺍ ﺮﺿﺎﺣ ﻝﺎﺣ ﺭﺩ ﺎﻤﺷ
+
+ClanTag Purchase Option
+== ﻪﻠﯿﺒﻗ ﺐﺴﭼﺮﺑ ﺪﯾﺮﺧ ﻪﻨﯾﺰﮔ
+
+ClanTag
+== ﻪﻠﯿﺒﻗ ﺐﺴﭼﺮﺑ
+
+Purchase
+== ﺪﯾﺮﺧ
+
+Orders
+== ﺎﻫ ﺵﺭﺎﻔﺳ
+
+Order ID: 
+== ﺵﺭﺎﻔﺳ ﻪﺳﺎﻨﺷ:
+
+Service Name: 
+== ﺲﯾﻭﺮﺳ ﻡﺎﻧ:
+
+Dummy: 
+== ﯽﻣﺍﺩ:
+
+Order Date: 
+== ﺵﺭﺎﻔﺳ ﺦﯾﺭﺎﺗ:
+
+Buyer IP: 
+== IP ﺭﺍﺪﯾﺮﺧ:
+
+Buyer Mac: 
+== Mac ﺭﺍﺪﯾﺮﺧ:
+
+Buyer Pc Name: 
+== ﺭﺍﺪﯾﺮﺧ ﺮﺗﻮﯿﭙﻣﺎﮐ ﻡﺎﻧ:
+
+Order ID: %d
+== %d :ﺵﺭﺎﻔﺳ ﻪﺳﺎﻨﺷ
+
+Service ID: %d
+== %d :ﺲﯾﻭﺮﺳ ﻪﺳﺎﻨﺷ
+
+Service Name: %s
+== %s :ﺲﯾﻭﺮﺳ ﻡﺎﻧ
+
+Service Category: %s
+== %s :ﺲﯾﻭﺮﺳ ﯼﺪﻨﺑ ﻪﺘﺳﺩ
+
+Order Status: ^g%s
+== ^w%s^g :ﺵﺭﺎﻔﺳ ﺖﯿﻌﺿﻭ
+
+Order Date: %s
+== %s :ﺵﺭﺎﻔﺳ ﺦﯾﺭﺎﺗ
+
+%d days until finished!
+== !ﻡﺎﻤﺗﺍ ﺎﺗ ﺯﻭﺭ %d
+
+Remains Day: %s
+== %s :ﻩﺪﻧﺎﻣ ﯽﻗﺎﺑ ﺯﻭﺭ ﺩﺍﺪﻌﺗ
+
+Cancel Order
+== ﺵﺭﺎﻔﺳ ﻮﻐﻟ
+
+Create new account!
+== !ﺪﯾﺪﺟ ﺏﺎﺴﺣ ﺖﺧﺎﺳ
+
+Email %s
+== ﻞﯿﻤﯾﺍ %s
+
+for example: tee@mail.com
+== tee@gmail.com :ﻝﺎﺜﻣ ﯼﺍﺮﺑ
+
+for example: Pass12345
+== Pass12345 :ﻝﺎﺜﻣ ﯼﺍﺮﺑ
+
+Confirm Password %s
+== ﺭﻮﺒﻋ ﺰﻣﺭ ﺪﯿﯾﺎﺗ %s
+
+Membership updated!
+== !ﺪﺷ ﯽﻧﺎﺳﺭﺯﻭﺮﺑ ﺖﯾﻮﻀﻋ
+
+Out of charge, Need to wait for %d days to recharge!
+== !ﺩﻮﺷ ﮊﺭﺎﺷ ﺎﺗ ﺪﯿﻧﺎﻤﺑ ﺮﻈﺘﻨﻣ ﺯﻭﺭ %d ﺪﯾﺎﺑ ،ﮊﺭﺎﺷ ﻥﻭﺪﺑ
+
+Register your phone number to claim %d t-coin as ^yreward^w!
+== ^yﺵﺍﺩﺎﭘ ^w ﻥﺍﻮﻨﻋ ﻪﺑ ﻦﯾﻮﮎ-ﯽﺗ %d ﺖﻓﺎﯾﺭﺩ ﯼﺍﺮﺑ ﺍﺭ ﺩﻮﺧ ﻦﻔﻠﺗ ﻩﺭﺎﻤﺷ
+
+Enter your phone number
+== ﺪﯿﻨﮐ ﺩﺭﺍﻭ ﺍﺭ ﺩﻮﺧ ﻦﻔﻠﺗ ﻩﺭﺎﻤﺷ
+
+Send
+== ﻝﺎﺳﺭﺍ
+
+Register Phone
+== ﻦﻔﻠﺗ ﺖﺒﺛ
+
+Enter your code that has been send to %s phone number
+== ﺪﯿﻨﮐ ﺩﺭﺍﻭ ﻩﺪﺷ ﻝﺎﺳﺭﺍ %s ﻩﺭﺎﻤﺷ ﻪﺑ ﻪﮐ ﺍﺭ ﺩﻮﺧ ﺪﮐ
+
+Enter Code
+== ﺪﯿﻨﮐ ﺩﺭﺍﻭ ﺍﺭ ﺪﮐ
+
+Check Code
+== ﺪﮐ ﯽﺳﺭﺮﺑ
+
+Edit Phone
+== ﻦﻔﻠﺗ ﺶﯾﺍﺮﯾﻭ
+
+^rResend (%d)^w
+== ^w(d%) ﻩﺭﺎﺑﻭﺩ ﻝﺎﺳﺭﺍ ^r
+
+Wait before next request!
+== !ﺪﯿﻨﮐ ﺮﺒﺻ ﯼﺪﻌﺑ ﺖﺳﺍﻮﺧﺭﺩ ﺎﺗ
+
+Resend
+== ﻦﮐ ﻝﺎﺳﺭﺍ ﻩﺭﺎﺑﻭﺩ
+
+Your code has been send again!
+== !ﺪﺷ ﻝﺎﺳﺭﺍ ﻩﺭﺎﺑﻭﺩ ﺎﻤﺷ ﺪﮐ
+
+You have to wait for %d seconds
+== ﺪﯾﺎﺑ %d ﺪﯿﻨﮐ ﺮﺒﺻ
+
+You received ^y%d TC ^was reward.
+== ﻩﺰﯾﺎﺟ ﺎﻤﺷ ^y%d TC ^was .ﺪﯾﺩﺮﮐ ﺖﻓﺎﯾﺭﺩ ﺍﺭ ﺩﻮﺧ
+
+Profiles
+== ﺕﺎﺼﺨﺸﻣ
+
+BindWheel
+== ﺪﻨﯾﺎﺑ ﺥﺮﭼ
+
+Reset position of mouse when opening bindwheel
+== ﺩﻮﺸﯿﻣ ﺯﺎﺑ ﺪﻨﯾﺎﺑ ﺥﺮﭼ ﯽﺘﻗﻭ ﺱﻮﻣ ﻞﺤﻣ ﻥﺪﺷ ﺖﺴﯾﺭ
+
+Pet
+== ﺖﭘ
+
+Settings+
+== +ﺕﺎﻤﯿﻈﻨﺗ
+
+Description
+== ﺕﺎﺤﯿﺿﻮﺗ
+
+Command
+== ﺭﻮﺘﺳﺩ
+
+Bind Wheel Key
+== ﺪﻨﯾﺎﺑ ﺥﺮﭼ ﺪﯿﻠﮐ
+
+Your pet skin
+== ﺖﭘ ﻦﯿﮑﺳﺍ
+
+Ground Pet
+== ﯽﻨﯿﻣﺯ ﺖﭘ
+
+Fly Pet
+== ﯽﯾﺍﻮﻫ ﺖﭘ
+
+Dummy Pet settings
+== ﯽﻣﺍﺩ ﺖﭘ ﺕﺎﻤﯿﻈﻨﺗ
+
+Toggle to edit your dummy settings
+== برای تغییر تنظیمات دامی تیک بزنید
+
+Show Fly Pets
+== ﯽﯾﺍﻮﻫ ﺖﭘ ﺶﯾﺎﻤﻧ
+
+Show the Pet of fly type
+== ﯽﯾﺍﻮﻫ ﻉﻮﻧ ﯼﺎﻫ ﺖﭘ ﺶﯾﺎﻤﻧ
+
+Enable Pet Fly Effect
+== ﯽﯾﺍﻮﻫ ﺖﭘ ﺖﮑﻓﺍ ﻥﺩﺮﮐ ﻝﺎﻌﻓ
+
+Render the pet fly effect
+== ﯽﯾﺍﻮﻫ ﺖﭘ ﺖﮑﻓﺍ ﺭﺪﻧﺭ
+
+Show pets
+== ﯽﮕﻧﺎﺧ ﯼﺎﻫ ﻥﺍﻮﯿﺣ ﺶﯾﺎﻤﻧ
+
+Choose pet eyes
+== ﺖﭘ ﯼﺎﻫ ﻢﺸﭼ ﺏﺎﺨﺘﻧﺍ
+
+Enable chat features
+== ﺖﭼ ﺕﺎﻧﺎﮑﻣﺍ ﯼﺯﺎﺴﻟﺎﻌﻓ
+
+Enable chat emoticons
+== ﺖﭼ ﯼﺎﻫ ﮏﻠﮑﺷ ﯼﺯﺎﺴﻟﺎﻌﻓ
+
++Emojis size
+== ﺎﻫ ﮏﻠﮑﺷ ﻩﺯﺍﺪﻧﺍ+
+
+Enable RTL Support
+== RTL ﺯﺍ ﯽﻧﺎﺒﯿﺘﺸﭘ ﯼﺯﺎﺴﻟﺎﻌﻓ
+
+Loading account profile!
+== ﻞﯾﺎﻓﻭﺮﭘ ﯼﺮﯿﮔﺭﺎﺑ ﻝﺎﺣ ﺭﺩ
+
+Please Wait...
+== ...ﺪﯿﻨﮐ ﺮﺒﺻ ﺎﻔﻄﻟ
+
+Your profile
+== ﺎﻤﺷ ﺕﺎﺼﺨﺸﻣ
+
+Name: %s
+== %s :ﻡﺎﻧ
+
+Clan: %s
+== %s :ﻦﻠﮐ
+
+Skin: %s
+== %s :ﻦﯿﮑﺳﺍ
+
+Dummy
+== ﯽﻣﺍﺩ
+
+Load
+== ﯼﺭﺍﺬﮔﺭﺎﺑ
+
+After Load
+== ﯼﺭﺍﺬﮔﺭﺎﺑ ﺯﺍ ﺪﻌﺑ
+
+Save
+== ﻩﺮﯿﺧﺫ
+
+Save/Load Skin
+== ﻦﯿﮑﺳﺍ ﯼﺭﺍﺬﮔﺭﺎﺑ/ﻩﺮﯿﺧﺫ
+
+Save/Load Colors
+== ﺎﻫ ﮓﻧﺭ ﯼﺭﺍﺬﮔﺭﺎﺑ/ﻩﺮﯿﺧﺫ
+
+Save/Load Emote
+== Emote ﯼﺭﺍﺬﮔﺭﺎﺑ/ﻩﺮﯿﺧﺫ
+
+Save/Load Name
+== ﻡﺎﻧ ﯼﺭﺍﺬﮔﺭﺎﺑ/ﻩﺮﯿﺧﺫ
+
+Save/Load Clan
+== ﻦﻠﮐ ﯼﺭﺍﺬﮔﺭﺎﺑ/ﻩﺮﯿﺧﺫ
+
+Save/Load Flag
+== Flag ﯼﺭﺍﺬﮔﺭﺎﺑ/ﻩﺮﯿﺧﺫ
+
+Profiles file
+== ﺕﺎﺼﺨﺸﻣ ﻞﯾﺎﻓ
+
+Delete
+== ﻑﺬﺣ
+
+Override
+== ﻦﺘﻓﺮﮔ ﻩﺪﯾﺩﺎﻧ
+
+Quitting. Please wait…
+== ...ﺪﯿﻨﮐ ﺮﺒﺻ ﺎﻔﻄﻟ .ﺝﻭﺮﺧ ﻝﺎﺣ ﺭﺩ
+
+
