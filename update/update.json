@@ -1,4 +1,13 @@
 [
+  { "version": "1.1.8"
+    , "client": true
+    , "server": false
+	, "download": [ 
+		"data/languages/index.txt",
+		"data/languages/persian.txt",
+		"data/menuimages/youtube.png",
+	]
+  },
   { "version": "1.1.7"
     , "client": true
     , "server": false
