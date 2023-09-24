@@ -2411,6 +2411,9 @@ Delete
 Override
 == ﻦﺘﻓﺮﮔ ﻩﺪﯾﺩﺎﻧ
 
+Published Date: %s
+== %s :ﺭﺎﺸﺘﻧﺍ ﺦﯾﺭﺎﺗ
+
 Quitting. Please wait…
 == ...ﺪﯿﻨﮐ ﺮﺒﺻ ﺎﻔﻄﻟ .ﺝﻭﺮﺧ ﻝﺎﺣ ﺭﺩ
 
