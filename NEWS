@@ -117,8 +117,7 @@
 		}
 	}
 	],
-	"login": 5,
-	"emote_plus": 1,
+	"force_update": 1,
 	"developer": "Vexar",
 	"official_hostname": "IranDDNet",
 	"official_address": "45.81.17.23",
