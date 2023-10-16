@@ -1,4 +1,14 @@
 [
+  { "version": "1.2.5"
+    , "client": true
+    , "server": false
+	, "download": [ 
+		"data/languages/persian.txt",
+		"data/iranddnet/extra/irdd_icons.png",
+		"data/iranddnet/extra/soundboard_emote.png",
+		"data/iranddnet/extra/sound.png",
+	]
+  },
   { "version": "1.2.3"
     , "client": true
     , "server": false

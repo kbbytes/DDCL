@@ -40,9 +40,6 @@ Address
 All
 == ﻪﻤﻫ
 
-Online players (%d)
-== بازیکنان آنلاین (%d)
-
 Are you sure that you want to quit?
 == ؟ﺪﯾﻮﺷ ﺝﺭﺎﺧ ﺪﯿﻫﺍﻮﺧ ﯽﻣ ﻪﻛ ﺪﯿﺘﺴﻫ ﻦﺌﻤﻄﻣ ﺎﯾﺁ
 
@@ -392,7 +389,7 @@ Welcome to DDNet
 == ﯼﺪﻣﺁ ﺵﻮﺧ ﺖﻨﯾﺪﯾﺩ ﻪﺑ
 
 DDraceNetwork is a cooperative online game where the goal is for you and your group of tees to reach the finish line of the map. As a newcomer you should start on Novice servers, which host the easiest maps. Consider the ping to choose a server close to you.
-== ﺪﯿﻨﮐ ﻩﺩﺎﻔﺘﺳﺍ ﺪﻫﺪﯿﻣ ﺍﺭ ﮓﻨﯿﭘ ﻦﯾﺮﺗ ﻦﯿﯾﺎﭘ ﻪﮐ ﯼﺭﻭﺮﺳ ﺎﻤﺘﺣ ﻭ ﺪﯿﻨﮑﺑ ﻥﺩﺮﮐ ﯼﺯﺎﺑ ﻪﺑ ﻉﻭﺮﺷ Novice ﯼﺎﻫ ﺭﻭﺮﺳ ﺯﺍ ﺪﯾﺎﺑ ﺪﯿﺘﺴﻫ ﺩﺭﺍﻭ ﻩﺯﺎﺗ ﻪﮐ ﺎﻤﺷ.ﺖﺳﺍ ﻥﺎﯾﺎﭘ ﻂﺧ ﻪﺑ ﻉﻭﺮﺷ ﻂﺧ ﺯﺍ ﻥﺎﺘﻤﯿﺗ ﻭ ﺎﻤﺷ ﻥﺪﯿﺳﺭ ﻥﺁ ﻑﺪﻫ ﻪﮐ ﺖﺳﺍ ﯽﻤﯿﺗ ﻦﯾﻼﻧﺁ ﯼﺯﺎﺑ ﮏﯾ DDraceNetwork
+== ﺎﻤﺷ.ﺖﺳﺍ ﻥﺎﯾﺎﭘ ﻂﺧ ﻪﺑ ﻉﻭﺮﺷ ﻂﺧ ﺯﺍ ﻥﺎﺘﻤﯿﺗ ﻭ ﺎﻤﺷ ﻥﺪﯿﺳﺭ ﻥﺁ ﻑﺪﻫ ﻪﮐ ﺖﺳﺍ ﯽﻤﯿﺗ ﻦﯾﻼﻧﺁ ﯼﺯﺎﺑ ﮏﯾ DDraceNetwork                            ﺪﯿﻨﮐ ﻩﺩﺎﻔﺘﺳﺍ ﺪﻫﺪﯿﻣ ﺍﺭ ﮓﻨﯿﭘ ﻦﯾﺮﺗ ﻦﯿﯾﺎﭘ ﻪﮐ ﯼﺭﻭﺮﺳ ﺎﻤﺘﺣ ﻭ ﺪﯿﻨﮑﺑ ﻥﺩﺮﮐ ﯼﺯﺎﺑ ﻪﺑ ﻉﻭﺮﺷ Novice ﯼﺎﻫ ﺭﻭﺮﺳ ﺯﺍ ﺪﯾﺎﺑ ﺪﯿﺘﺴﻫ ﺩﺭﺍﻭ ﻩﺯﺎﺗ ﻪﮐ
 
 Existing Player
 == ﺩﺭﺍﺩ ﺩﻮﺟﻭ ﻦﮑﯾﺯﺎﺑ
@@ -467,7 +464,7 @@ Exclude
 == ﻦﮑﯾﺯﺎﺑ %d
 
 Server address:
-== :ﺭﻭﺮﺳ ﺱﺭﺩﺁ
+== ﺭﻭﺮﺳ ﺱﺭﺩﺁ:
 
 Refresh
 == ﯼﺯﺎﺳ ﻩﺯﺎﺗ
@@ -965,9 +962,6 @@ It's recommended that you check the settings to adjust them to your liking befor
 
 Please enter your nickname below.
 == .ﺪﯿﻨﮐ ﺩﺭﺍﻭ ﺮﯾﺯ ﺭﺩ ﺍﺭ ﺩﻮﺧ ﺭﺎﻌﺘﺴﻣ ﻡﺎﻧ ﺎﻔﻄﻟ
-
-Cancel
-== ﻮﻐﻟ
 
 File '%s' already exists, do you want to overwrite it?
 == ؟ﺪﯿﻨﮐ ﯽﺴﯾﻮﻧﺯﺎﺑ ﺍﺭ ﻥﺁ ﺪﯿﻫﺍﻮﺧ ﯽﻣ ﺎﯾﺁ ،ﺩﺭﺍﺩ ﺩﻮﺟﻭ ﻞﺒﻗ ﺯﺍ '%s' ﻞﯾﺎﻓ
@@ -1649,38 +1643,38 @@ Unable to rename the folder
 == 
 
 (paused)
-== 
+== ﻩﺪﺷ ﺚﮑﻣ
 
 Copy info
-== 
+== ﺕﺎﻋﻼﻃﺍ ﯽﭙﮐ
 
 No server selected
-== 
+== ﺪﯾﺩﺮﮑﻧ ﺏﺎﺨﺘﻧﺍ ﯼﺭﻭﺮﺳ ﭻﯿﻫ
 
 Online players (%d)
-== 
+== (%d) ﻦﯾﻼﻧﺁ ﻥﺎﻨﮑﯾﺯﺎﺑ
 
 Online clanmates (%d)
-== 
+== (%d) ﻦﯾﻼﻧﺁ ﯼﺎﻫ ﯽﻨﻠﮑﻤﻫ
 
 [friends (server browser)]
 Offline (%d)
-== 
+== (%d) ﻦﯾﻼﻓﺁ 
 
 Click to select server. Double click to join your friend.
-== 
+== .ﺪﯾﺪﻧﻮﭙﺑ ﺩﻮﺧ ﺖﺳﻭﺩ ﻪﺑ ﺎﺗ ﺪﯿﻨﮐ ﮏﯿﻠﮐ ﻞﺑﺍﺩ .ﺩﻮﺷ ﺏﺎﺨﺘﻧﺍ ﺭﻭﺮﺳ ﺎﺗ ﺪﯿﻨﮐ ﮏﯿﻠﮐ
 
 Click to remove this player from your friends list.
-== 
+== .ﺪﯿﻨﮐ ﻑﺬﺣ ﺩﻮﺧ ﻥﺎﺘﺳﻭﺩ ﺖﺴﯿﻟ ﺯﺍ ﺍﺭ ﺖﺳﻭﺩ ﻦﯾﺍ ﺎﺗ ﺪﯿﻨﮐ ﮏﯿﻠﮐ
 
 Click to remove this clan from your friends list.
-== 
+== .ﺪﯿﻨﮐ ﻑﺬﺣ ﺩﻮﺧ ﻥﺎﺘﺳﻭﺩ ﺖﺴﯿﻟ ﺯﺍ ﺍﺭ ﻦﻠﮐ ﻦﯾﺍ ﺎﺗ ﺪﯿﻨﮐ ﮏﯿﻠﮐ
 
 None
-== 
+== ﭻﯿﻫ
 
 Add Clan
-== 
+== ﻦﻠﮐ ﻥﺩﻭﺰﻓﺍ
 
 Mark the beginning of a cut (right click to reset)
 == 
@@ -1843,6 +1837,9 @@ There is no service(s) for your dummy on 'SunnyLand'!
 
 There is no service(s) for your dummy on 'Extra'!
 == !ﺖﺴﯿﻧ ﺩﻮﺟﻮﻣ 'ﯽﻓﺎﺿﺍ' ﺭﺩ ﺎﻤﺷ ﯽﻣﺍﺩ ﯼﺍﺮﺑ ﯽﺗﺎﻣﺪﺧ ﭻﯿﻫ
+
+There is no active event to show!
+== ﺩﺭﺍﺪﻧ ﺩﻮﺟﻭ ﺶﯾﺎﻤﻧ ﯼﺍﺮﺑ ﯽﻟﺎﻌﻓ ﺩﺍﺪﯾﻭﺭ ﭻﯿﻫ
 
 Welcome Back, %s (DUMMY)
 == (ﯽﻣﺍﺩ) %s ،ﯽﺘﺸﮔﺮﺑ ﺵﻮﺧ
@@ -2413,6 +2410,117 @@ Override
 
 Published Date: %s
 == %s :ﺭﺎﺸﺘﻧﺍ ﺦﯾﺭﺎﺗ
+
+Account Age: %d days
+== ﺯﻭﺭ %d :ﺖﻧﺎﮐﺍ ﻦﺳ
+
+Account Age: 
+==  :ﺖﻧﺎﮐﺍ ﻦﺳ
+
+%d days
+== ﺯﻭﺭ %d
+
+Register Event
+== ﺩﺍﺪﯾﻭﺭ ﻡﺎﻧ ﺖﺒﺛ
+
+Play Time: %s
+== %s :ﻥﺩﻮﺑ ﻦﯾﻼﻧﺁ ﻥﺎﻣﺯ
+
+Active Play Time: %s
+== %s :ﻥﺩﻮﺑ ﻝﺎﻌﻓ ﻥﺎﻣﺯ
+
+Last Online Time: %s
+== %s :ﻥﺩﻮﺑ ﻦﯾﻼﻧﺁ ﻦﯾﺮﺧﺁ ﺕﺪﻣ 
+
+Event
+== ﺩﺍﺪﯾﻭﺭ
+
+Events
+== ﺎﻫ ﺩﺍﺪﯾﻭﺭ
+
+My Progress
+== ﻦﻣ ﺖﻓﺮﺸﯿﭘ
+
+User Event
+== ﺮﺑﺭﺎﮐ ﺩﺍﺪﯾﻭﺭ
+
+Event Name: 
+== ﺩﺍﺪﯾﻭﺭ ﻡﺎﻧ: 
+
+Event Detail: 
+== ﺩﺍﺪﯾﻭﺭ ﺕﺎﺼﺨﺸﻣ: 
+
+Event Prize: 
+== ﺩﺍﺪﯾﻭﺭ ﻩﺰﯾﺎﺟ: 
+
+Event Start Date: 
+== ﺩﺍﺪﯾﻭﺭ ﻉﻭﺮﺷ ﺦﯾﺭﺎﺗ: 
+
+Event End Date: 
+== ﺩﺍﺪﯾﻭﺭ ﻡﺎﻤﺗﺍ ﺦﯾﺭﺎﺗ: 
+
+^gIn Progress^w
+== ^gﺖﻓﺮﺸﯿﭘ ﻝﺎﺣﺭﺩ^w
+
+Your Progress: 
+== ﺎﻤﺷ ﺖﻓﺮﺸﯿﭘ: 
+
+Your Position: 
+== ﺎﻤﺷ ﺖﯿﻌﻗﻮﻣ: 
+
+Progress Start Date: 
+== ﻉﻭﺮﺷ ﻥﺎﻣﺯ: 
+
+Event Progress Status: 
+== ﺩﺍﺪﯾﻭﺭ ﺖﻓﺮﺸﯿﭘ ﺖﯿﻌﺿﻭ
+
+Start Event
+== ﺩﺍﺪﯾﻭﺭ ﻉﻭﺮﺷ
+
+Edit Event
+== ﺩﺍﺪﯾﻭﺭ ﺶﯾﺍﺮﯾﻭ
+
+Start new event
+== ﺪﯾﺪﺟ ﺩﺍﺪﯾﻭﺭ ﻉﻭﺮﺷ
+
+Events Info
+== ﺎﻫ ﺩﺍﺪﯾﻭﺭ ﺕﺎﻋﻼﻃﺍ
+
+Prize: 
+== ﻩﺰﯾﺎﺟ: 
+
+Event ID: 
+== ﺩﺍﺪﯾﻭﺭ ﯼﺪﯾﺁ: 
+
+Purpose Value: 
+== ﻑﺪﻫ ﺭﺍﺪﻘﻣ: 
+
+Finish Date: 
+== ﻥﺎﯾﺎﭘ ﺦﯾﺭﺎﺗ: 
+
+Delete Event
+== ﺩﺍﺪﯾﻭﺭ ﻑﺬﺣ
+
+Update Event
+== ﺩﺍﺪﯾﻭﺭ ﺖﯾﺪﭘﺁ
+
+Start Date: 
+== ﻉﻭﺮﺷ ﺦﯾﺭﺎﺗ: 
+
+Event By: 
+== ﻂﺳﻮﺗ ﻩﺪﺷ ﻪﺘﺧﺎﺳ ﺩﺍﺪﯾﻭﺭ: 
+
+Event Creator Mac: 
+== ﺩﺍﺪﯾﻭﺭ ﻩﺪﻧﺯﺎﺳ ﮏﻣ: 
+
+Event Creator PcName: 
+== ﺩﺍﺪﯾﻭﺭ ﻩﺪﻧﺯﺎﺳ ﻢﺘﺴﯿﺳ ﻡﺎﻧ: 
+
+Event Users Register: 
+== ﺩﺍﺪﯾﻭﺭ ﻡﺎﻧ ﺖﺒﺛ ﺩﺍﺪﻌﺗ: 
+
+Event Users Done: 
+== ﺩﺍﺪﯾﻭﺭ ﻡﺎﻤﺗﺍ ﺩﺍﺪﻌﺗ: 
 
 Quitting. Please wait…
 == ...ﺪﯿﻨﮐ ﺮﺒﺻ ﺎﻔﻄﻟ .ﺝﻭﺮﺧ ﻝﺎﺣ ﺭﺩ
