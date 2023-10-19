@@ -1,4 +1,16 @@
 [
+  { "version": "1.2.6"
+    , "client": true
+    , "server": false
+	, "download": [ 
+		"data/languages/persian.txt",
+		"data/fonts/index.json",
+	],
+	"remove": [
+      "data/fonts/GlowSansJ-Compressed-Book.otf",
+      "data/fonts/SourceHanSans.ttc"
+    ]
+  },
   { "version": "1.2.5"
     , "client": true
     , "server": false

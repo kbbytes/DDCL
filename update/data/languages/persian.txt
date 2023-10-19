@@ -1005,11 +1005,11 @@ CHN
 Leak IP
 == IP ﺖﺸﻧ
 
-Are you sure that you want to remove the player '%s' from your friends list?
-== ؟ﺪﯿﻨﮐ ﻑﺬﺣ ﺩﻮﺧ ﻥﺎﺘﺳﻭﺩ ﺖﺴﯿﻟ ﺯﺍ ﺍﺭ '%s' ﻦﮑﯾﺯﺎﺑ ﺪﯿﻫﺍﻮﺧ ﯽﻣ ﻪﮐ ﺪﯿﺘﺴﻫ ﻦﺌﻤﻄﻣ ﺎﯾﺁ
+Are you sure that you want to remove the player '%s^/' from your friends list?
+== ؟ ﺪﯿﻨﮐ ﻑﺬﺣ ﺩﻮﺧ ﻥﺎﺘﺳﻭﺩ ﺖﺴﯿﻟ ﺯﺍ ﺍﺭ '%s^/' ﻦﮑﯾﺯﺎﺑ ﺪﯿﻫﺍﻮﺨﯿﻣ ﻪﮐ ﺪﯿﺘﺴﻫ ﻦﯿﻤﻄﻣ ﺎﯾﺁ
 
-Are you sure that you want to remove the clan '%s' from your friends list?
-== ؟ﺪﯿﻨﮐ ﻑﺬﺣ ﺩﻮﺧ ﻥﺎﺘﺳﻭﺩ ﺖﺴﯿﻟ ﺯﺍ ﺍﺭ '%s' ﻦﻠﮐ ﺪﯿﻫﺍﻮﺧ ﯽﻣ ﻪﮐ ﺪﯿﺘﺴﻫ ﻦﺌﻤﻄﻣ ﺎﯾﺁ
+Are you sure that you want to remove the clan '%s^/' from your friends list?
+== ؟ﺪﯿﻨﮐ ﻑﺬﺣ ﺩﻮﺧ ﻥﺎﺘﺳﻭﺩ ﺖﺴﯿﻟ ﺯﺍ ﺍﺭ '%s^/' ﻦﻠﮐ ﺪﯿﻫﺍﻮﺧ ﯽﻣ ﻪﮐ ﺪﯿﺘﺴﻫ ﻦﺌﻤﻄﻣ ﺎﯾﺁ
 
 Play the current demo
 == ﯽﻠﻌﻓ ﯼ ﻮﻣﺩ ﺶﺨﭘ
