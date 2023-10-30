@@ -5,41 +5,41 @@
 	  "flagId": 364,
 	  "servers": {
 		"DDrace": [
-			"45.81.17.23:8306",
-			"45.81.17.23:8307",
-			"45.81.17.23:8308",
-			"45.81.17.23:8309",
-			"45.81.17.23:8310",
-			"45.81.17.23:8311",
-			"45.81.17.23:8312",
-			"45.81.17.23:8313",
-			"45.81.17.23:8314",
-			"45.81.17.23:8315",
-			"45.81.17.23:8321"
+			"tw.iranddnet.ir:8306",
+			"tw.iranddnet.ir:8307",
+			"tw.iranddnet.ir:8308",
+			"tw.iranddnet.ir:8309",
+			"tw.iranddnet.ir:8310",
+			"tw.iranddnet.ir:8311",
+			"tw.iranddnet.ir:8312",
+			"tw.iranddnet.ir:8313",
+			"tw.iranddnet.ir:8314",
+			"tw.iranddnet.ir:8315",
+			"tw.iranddnet.ir:8321"
 		],
 		"Gores": [
-			"45.81.17.23:8316",
-			"45.81.17.23:8317",
-			"45.81.17.23:8318",
-			"45.81.17.23:8319",
-			"45.81.17.23:8320"
+			"tw.iranddnet.ir:8316",
+			"tw.iranddnet.ir:8317",
+			"tw.iranddnet.ir:8318",
+			"tw.iranddnet.ir:8319",
+			"tw.iranddnet.ir:8320"
 		],
 		"Modded": [
-			"45.81.17.23:8300",
-			"45.81.17.23:8302",
-			"45.81.17.23:8304",
-			"45.81.17.23:8305",
-			"45.81.17.23:8328"
+			"tw.iranddnet.ir:8300",
+			"tw.iranddnet.ir:8302",
+			"tw.iranddnet.ir:8304",
+			"tw.iranddnet.ir:8305",
+			"tw.iranddnet.ir:8328"
 		],
 		"Vanilla": [
-			"45.81.17.23:8301",
-			"45.81.17.23:8303",
-			"45.81.17.23:8322",
-			"45.81.17.23:8323",
-			"45.81.17.23:8324",
-			"45.81.17.23:8325",
-			"45.81.17.23:8326",
-			"45.81.17.23:8327"
+			"tw.iranddnet.ir:8301",
+			"tw.iranddnet.ir:8303",
+			"tw.iranddnet.ir:8322",
+			"tw.iranddnet.ir:8323",
+			"tw.iranddnet.ir:8324",
+			"tw.iranddnet.ir:8325",
+			"tw.iranddnet.ir:8326",
+			"tw.iranddnet.ir:8327"
 		]
 	  }
 	}
@@ -50,17 +50,17 @@
 		  "flagId": 364,
 		  "servers": {
 			"DDrace": [
-				"45.81.17.23:8306",
-				"45.81.17.23:8307",
-				"45.81.17.23:8308",
-				"45.81.17.23:8309",
-				"45.81.17.23:8310",
-				"45.81.17.23:8311",
-				"45.81.17.23:8312",
-				"45.81.17.23:8313",
-				"45.81.17.23:8314",
-				"45.81.17.23:8315",
-				"45.81.17.23:8321"
+				"tw.iranddnet.ir:8306",
+				"tw.iranddnet.ir:8307",
+				"tw.iranddnet.ir:8308",
+				"tw.iranddnet.ir:8309",
+				"tw.iranddnet.ir:8310",
+				"tw.iranddnet.ir:8311",
+				"tw.iranddnet.ir:8312",
+				"tw.iranddnet.ir:8313",
+				"tw.iranddnet.ir:8314",
+				"tw.iranddnet.ir:8315",
+				"tw.iranddnet.ir:8321"
 			],
 		  }
 	}
@@ -71,11 +71,11 @@
 		  "flagId": 364,
 		  "servers": {
 			"Modded": [
-				"45.81.17.23:8300",
-				"45.81.17.23:8302",
-				"45.81.17.23:8304",
-				"45.81.17.23:8305",
-				"45.81.17.23:8328"
+				"tw.iranddnet.ir:8300",
+				"tw.iranddnet.ir:8302",
+				"tw.iranddnet.ir:8304",
+				"tw.iranddnet.ir:8305",
+				"tw.iranddnet.ir:8328"
 			],
 		  }
 	}
@@ -86,11 +86,11 @@
 		  "flagId": 364,
 		  "servers": {
 			"Gores": [
-				"45.81.17.23:8316",
-				"45.81.17.23:8317",
-				"45.81.17.23:8318",
-				"45.81.17.23:8319",
-				"45.81.17.23:8320"
+				"tw.iranddnet.ir:8316",
+				"tw.iranddnet.ir:8317",
+				"tw.iranddnet.ir:8318",
+				"tw.iranddnet.ir:8319",
+				"tw.iranddnet.ir:8320"
 			],
 		  }
 	}
@@ -101,14 +101,14 @@
 		  "flagId": 364,
 		  "servers": {
 			"Vanilla": [
-				"45.81.17.23:8301",
-				"45.81.17.23:8303",
-				"45.81.17.23:8322",
-				"45.81.17.23:8323",
-				"45.81.17.23:8324",
-				"45.81.17.23:8325",
-				"45.81.17.23:8326",
-				"45.81.17.23:8327"
+				"tw.iranddnet.ir:8301",
+				"tw.iranddnet.ir:8303",
+				"tw.iranddnet.ir:8322",
+				"tw.iranddnet.ir:8323",
+				"tw.iranddnet.ir:8324",
+				"tw.iranddnet.ir:8325",
+				"tw.iranddnet.ir:8326",
+				"tw.iranddnet.ir:8327"
 			],
 		  }
 	}
@@ -123,9 +123,9 @@
 	],
 	"force_update": 1,
 	"developer": "Vexar",
-	"official_hostname": "IranDDNet",
-	"official_address": "45.81.17.23",
-	"news": "|^rNew client version 1.2.7 released!|\n\n^wIranDDNet", 
-	"version": "1.2.7"
+	"official_hostname": "iranddnet",
+	"official_address": "45.81.17.26",
+	"news": "|^rNew client version 1.0.0 released!|\n\n^wIranDDNet", 
+	"version": "1.0.0"
 }
 
