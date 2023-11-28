@@ -1,5 +1,5 @@
 ##### authors #####
-#	IranDDNet	2023-09-14
+#	IranDDNet	2023-11-21
 ##### /authors #####
 
 ##### translated strings #####
@@ -2450,6 +2450,9 @@ Event Name:
 Event Detail: 
 == ﺩﺍﺪﯾﻭﺭ ﺕﺎﺼﺨﺸﻣ: 
 
+Event Location: 
+== ﺩﺍﺪﯾﻭﺭ ﺖﯿﻌﻗﻮﻣ: 
+
 Event Prize: 
 == ﺩﺍﺪﯾﻭﺭ ﻩﺰﯾﺎﺟ: 
 
@@ -2521,6 +2524,45 @@ Event Users Register:
 
 Event Users Done: 
 == ﺩﺍﺪﯾﻭﺭ ﻡﺎﻤﺗﺍ ﺩﺍﺪﻌﺗ: 
+
+Change Password: 
+== ﺩﺭﻮﺴﭘ ﺮﯿﯿﻐﺗ: 
+
+Change
+== ﺮﯿﯿﻐﺗ
+
+Linked Accounts
+== ﻩﺪﺷ ﮏﻨﯿﻟ ﯼﺎﻫ ﺖﻧﺎﮐﺍ
+
+Link now
+== ﺪﯿﻨﮐ ﮏﻨﯿﻟ
+
+^gLinked^/
+== ^gﻩﺪﺷ ﮏﻨﯿﻟ^/
+
+Confirm
+== ﺪﯿﯾﺎﺗ
+
+Link Account
+== ﺖﻧﺎﮐﺍ ﻥﺩﺮﮐ ﮏﻨﯿﻟ
+
+Event Target: 
+== ﺩﺍﺪﯾﻭﺭ ﺪﺼﻘﻣ: 
+
+External: 
+== ﯽﺟﺭﺎﺧ: 
+
+Event External Target: 
+== ﺩﺍﺪﯾﻭﺭ ﯽﺟﺭﺎﺧ ﺪﺼﻘﻣ: 
+
+Event External Type: 
+== ﺩﺍﺪﯾﻭﺭ ﯽﺟﺭﺎﺧ ﻉﻮﻧ: 
+
+is External: 
+== ﺖﺴﻫ ﯽﺟﺭﺎﺧ ؟: 
+
+Login Failed, Update your client to the latest version
+== ﺪﯿﻨﮐ ﺖﯾﺪﭘﺁ ﻪﺨﺴﻧ ﻦﯾﺮﺧﺁ ﻪﺑ ﺍﺭ ﺩﻮﺧ ﺖﻨﯾﻼﮐ ،ﺪﺸﻧ ﻡﺎﺠﻧﺍ ﻦﯿﮔﻮﻟ
 
 Quitting. Please wait…
 == ...ﺪﯿﻨﮐ ﺮﺒﺻ ﺎﻔﻄﻟ .ﺝﻭﺮﺧ ﻝﺎﺣ ﺭﺩ
