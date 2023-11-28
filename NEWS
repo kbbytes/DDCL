@@ -129,5 +129,5 @@
     "official_hostname": "iranddnet",
     "official_address": "45.81.17.26",
     "news": "|^rNew client version 1.0.1 released!|\n\n^wIranDDNet",
-    "version": "1.0.1"
+    "version": "1.0.0"
 }
