@@ -2265,7 +2265,7 @@ Edit Phone
 == ﻦﻔﻠﺗ ﺶﯾﺍﺮﯾﻭ
 
 ^rResend (%d)^w
-== ^w(d%) ﻩﺭﺎﺑﻭﺩ ﻝﺎﺳﺭﺍ ^r
+== ^r(%d) ﻩﺭﺎﺑﻭﺩ ﻝﺎﺳﺭﺍ ^w
 
 Wait before next request!
 == !ﺪﯿﻨﮐ ﺮﺒﺻ ﯼﺪﻌﺑ ﺖﺳﺍﻮﺧﺭﺩ ﺎﺗ

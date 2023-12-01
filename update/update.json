@@ -3,6 +3,9 @@
     "version": "1.0.3",
     "client": true,
     "server": false,
+	, "download": [ 
+		"data/languages/persian.txt"
+	]
   },
   {
     "version": "1.0.2",
