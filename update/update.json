@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.0.4",
+    "client": true,
+    "server": false,
+	, "download": [ 
+		"data/languages/persian.txt",
+		"data/race_flag.png"
+	]
+  },
+  {
     "version": "1.0.3",
     "client": true,
     "server": false,
