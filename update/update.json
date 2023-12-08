@@ -1,34 +1,23 @@
 [
-  {
-    "version": "1.0.4",
-    "client": true,
-    "server": false,
-	, "download": [ 
-		"data/languages/persian.txt",
-		"data/race_flag.png"
-	]
+  { "version": "1.0.4"
+  , "client": true
+  , "server": false
+  , "download": [ "data/languages/persian.txt", "data/race_flag.png"]
   },
-  {
-    "version": "1.0.3",
-    "client": true,
-    "server": false,
-	, "download": [ 
-		"data/languages/persian.txt"
-	]
+  { "version": "1.0.3"
+  , "client": true
+  , "server": false
   },
-  {
-    "version": "1.0.2",
-    "client": true,
-    "server": false,
+  { "version": "1.0.2"
+  , "client": true
+  , "server": false
   },
-  {
-    "version": "1.0.1",
-    "client": true,
-    "server": false,
+  { "version": "1.0.1"
+  , "client": true
+  , "server": false
   },
-  {
-    "version": "1.0.0",
-    "client": true,
-    "server": false,
-  },
+  { "version": "1.0.0"
+  , "client": true
+  , "server": false
+  }
 ]
