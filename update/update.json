@@ -1,4 +1,9 @@
 [
+  { "version": "1.0.5"
+  , "client": true
+  , "server": false
+  , "download": [ "data/iranddnet/extra/staffbadges/admin.png", "data/iranddnet/extra/staffbadges/headadmin.png", "data/iranddnet/extra/staffbadges/supervisor.png", "data/iranddnet/extra/staffbadges/manager.png", "data/iranddnet/extra/staffbadges/owner.png"]
+  },
   { "version": "1.0.4"
   , "client": true
   , "server": false
