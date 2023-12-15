@@ -1,4 +1,9 @@
 [
+  { "version": "1.0.7"
+  , "client": true
+  , "server": false
+  , "download": [ "data/menuimages/teecoin.png"]
+  },
   { "version": "1.0.6"
   , "client": true
   , "server": false
