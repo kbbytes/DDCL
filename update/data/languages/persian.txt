@@ -1818,7 +1818,7 @@ There is no service(s) for you!
 == !ﺖﺴﯿﻧ ﺩﻮﺟﻮﻣ ﺎﻤﺷ ﯼﺍﺮﺑ ﯽﺗﺎﻣﺪﺧ ﭻﯿﻫ
 
 There is no service(s) for you on 'Block'!
-== هیچ خدماتی برای شما در 'بلاک' موجود نیست!
+== !ﺖﺴﯿﻧ ﺩﻮﺟﻮﻣ 'ﮎﻼﺑ' ﺭﺩ ﺎﻤﺷ ﯼﺍﺮﺑ ﯽﺗﺎﻣﺪﺧ ﭻﯿﻫ
 
 There is no service(s) for you on 'SunnyLand'!
 == !ﺖﺴﯿﻧ ﺩﻮﺟﻮﻣ 'ﺪﻨﻟ ﯽﻧﺎﺳ' ﺭﺩ ﺎﻤﺷ ﯼﺍﺮﺑ ﯽﺗﺎﻣﺪﺧ ﭻﯿﻫ
@@ -2563,6 +2563,81 @@ is External:
 
 Login Failed, Update your client to the latest version
 == ﺪﯿﻨﮐ ﺖﯾﺪﭘﺁ ﻪﺨﺴﻧ ﻦﯾﺮﺧﺁ ﻪﺑ ﺍﺭ ﺩﻮﺧ ﺖﻨﯾﻼﮐ ،ﺪﺸﻧ ﻡﺎﺠﻧﺍ ﻦﯿﮔﻮﻟ
+
+Referral
+== ﻑﺮﻌﻣ
+
+Referral ID
+== ﻑﺮﻌﻣ ﯼﺪﯾﺁ
+
+Referral ID: %d
+== ﻑﺮﻌﻣ ﯼﺪﯾﺁ: %d
+
+Nickname: %s
+== ﻡﺎﻧ: %s
+
+Incoming: %s TC
+== ﺪﻣﺁﺭﺩ: %s TC
+
+Active Time: %s
+== ﻥﺩﻮﺑ ﻝﺎﻌﻓ ﻥﺎﻣﺯ: %s
+
+Join Date: %s
+== ﻦﺘﺳﻮﯿﭘ ﻥﺎﻣﺯ: %s
+
+First Stage: 
+== ﻝﻭﺍ ﻪﻠﺣﺮﻣ: 
+
+^rClaim (%d)^w
+== ^rﺖﻓﺎﯾﺭﺩ (%d)^w
+
+Claim
+== ﺖﻓﺎﯾﺭﺩ
+
+^gClaimed^/
+== ^gﻩﺪﺷ ﺖﻓﺎﯾﺭﺩ^/
+
+Wait before next request!
+== !ﺪﯿﻨﮐ ﺮﺒﺻ ﯼﺪﻌﺑ ﺖﺳﺍﻮﺧﺭﺩ ﺯﺍ ﻞﺒﻗ
+
+^rIncomplete^/
+== ^rﻡﺎﻤﺗﺎﻧ^/
+
+Repeat Stage: 
+== ﺭﺍﺮﮑﺗ ﻪﻠﺣﺮﻣ: 
+
+There is no referral for you!
+== !ﺩﺭﺍﺪﻧ ﺩﻮﺟﻭ ﺎﻤﺷ ﯼﺍﺮﺑ ﯽﻋﺎﺟﺭﺍ ﭻﯿﻫ
+
+Redeem
+== ﻥﺪﯾﺮﺧ ﺯﺎﺑ
+
+Enter your coupon code
+== ﺪﯿﻨﮐ ﺩﺭﺍﻭ ﺍﺭ ﺩﻮﺧ ﻦﭘﻮﮐ ﺪﮐ
+
+Check
+== ﯽﺳﺭﺮﺑ
+
+Loading
+== ﯼﺭﺍﺬﮔﺭﺎﺑ
+
+Coupon not found
+== ﺪﺸﻧ ﺍﺪﯿﭘ ﻦﭘﻮﮐ
+
+^rCheck (%d)^w
+== ^rﯽﺳﺭﺮﺑ (%d)^w
+
+Referral Check
+== ﻑﺮﻌﻣ ﯽﺳﺭﺮﺑ
+
+Enter you friend's Referral ID
+== ﺪﯿﻨﮐ ﺩﺭﺍﻭ ﺍﺭ ﺩﻮﺧ ﺖﺳﻭﺩ ﯽﻓﺮﻌﻣ ﯼﺪﯾﺁ
+
+Referral Confirmation
+== ﻑﺮﻌﻣ ﺪﯿﯾﺎﺗ
+
+You entered %s's Referral ID, if you sure press confirm
+== ﺪﯾﺍ ﻩﺩﺮﮐ ﺩﺭﺍﻭ ﺍﺭ %s ﻑﺮﻌﻣ ﻪﺳﺎﻨﺷ ،ﺪﯿﻫﺩ ﺭﺎﺸﻓ ﺍﺭ ﺪﯿﯾﺄﺗ ﺪﯿﺘﺴﻫ ﻦﺌﻤﻄﻣ ﺮﮔﺍ
 
 Quitting. Please wait…
 == ...ﺪﯿﻨﮐ ﺮﺒﺻ ﺎﻔﻄﻟ .ﺝﻭﺮﺧ ﻝﺎﺣ ﺭﺩ
