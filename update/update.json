@@ -1,4 +1,10 @@
 [
+  { "version": "1.1.7"
+  , "client": true
+  , "server": false
+  , "download": [ "data/languages/persian.txt", "data/audio/ui/help.wv", "data/audio/ui/report.wv", "data/audio/ui/request.wv"]
+  ,"remove": [ "data/emojis/emojione.sprites.png", "data/emojis/index.txt"]
+  },
   { "version": "1.1.6"
   , "client": true
   , "server": false
