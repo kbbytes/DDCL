@@ -1779,7 +1779,7 @@ Welcome Back, %s
 == ,ﯽﺘﺸﮔﺮﺑ ﺵﻮﺧ %s
 
 Your Balance: %s
-== %s :ﺎﻤﺷ ﯼﺩﻮﺟﻮﻣ
+== ﺎﻤﺷ ﯼﺩﻮﺟﻮﻣ: %s
 
 Profile
 == ﺕﺎﺼﺨﺸﻣ
@@ -1791,13 +1791,13 @@ Teecoin Transactions
 == Teecoin ﺕﻼﻣﺎﻌﻣ
 
 User ID: %d
-== %d :ﺮﺑﺭﺎﮐ ﻪﺳﺎﻨﺷ 
+== ﺮﺑﺭﺎﮐ ﻪﺳﺎﻨﺷ: %d
 
 Email Address: %s
-== %s :ﻞﯿﻤﯾﺍ ﺱﺭﺩﺁ 
+== ﻞﯿﻤﯾﺍ ﺱﺭﺩﺁ: %s
 
 Register Date: %s
-== %s :ﻡﺎﻧ ﺖﺒﺛ ﺦﯾﺭﺎﺗ 
+== ﻡﺎﻧ ﺖﺒﺛ ﺦﯾﺭﺎﺗ: %s
 
 Logout
 == ﺝﻭﺮﺧ
@@ -2409,28 +2409,28 @@ Override
 == ﻦﺘﻓﺮﮔ ﻩﺪﯾﺩﺎﻧ
 
 Published Date: %s
-== %s :ﺭﺎﺸﺘﻧﺍ ﺦﯾﺭﺎﺗ
+== ﺭﺎﺸﺘﻧﺍ ﺦﯾﺭﺎﺗ: %s
 
 Account Age: %d days
-== ﺯﻭﺭ %d :ﺖﻧﺎﮐﺍ ﻦﺳ
+== ﺖﻧﺎﮐﺍ ﻦﺳ: %d ﺯﻭﺭ
 
 Account Age: 
-==  :ﺖﻧﺎﮐﺍ ﻦﺳ
+== ﺖﻧﺎﮐﺍ ﻦﺳ: 
 
 %d days
-== ﺯﻭﺭ %d
+== %d ﺯﻭﺭ
 
 Register Event
 == ﺩﺍﺪﯾﻭﺭ ﻡﺎﻧ ﺖﺒﺛ
 
 Play Time: %s
-== %s :ﻥﺩﻮﺑ ﻦﯾﻼﻧﺁ ﻥﺎﻣﺯ
+== ﻥﺩﻮﺑ ﻦﯾﻼﻧﺁ ﻥﺎﻣﺯ: %s
 
 Active Play Time: %s
-== %s :ﻥﺩﻮﺑ ﻝﺎﻌﻓ ﻥﺎﻣﺯ
+== ﻥﺩﻮﺑ ﻝﺎﻌﻓ ﻥﺎﻣﺯ: %s
 
 Last Online Time: %s
-== %s :ﻥﺩﻮﺑ ﻦﯾﻼﻧﺁ ﻦﯾﺮﺧﺁ ﺕﺪﻣ 
+== ﻥﺩﻮﺑ ﻦﯾﻼﻧﺁ ﻦﯾﺮﺧﺁ ﺕﺪﻣ: %s
 
 Event
 == ﺩﺍﺪﯾﻭﺭ
@@ -2638,6 +2638,84 @@ Referral Confirmation
 
 You entered %s's Referral ID, if you sure press confirm
 == ﺪﯾﺍ ﻩﺩﺮﮐ ﺩﺭﺍﻭ ﺍﺭ %s ﻑﺮﻌﻣ ﻪﺳﺎﻨﺷ ،ﺪﯿﻫﺩ ﺭﺎﺸﻓ ﺍﺭ ﺪﯿﯾﺄﺗ ﺪﯿﺘﺴﻫ ﻦﺌﻤﻄﻣ ﺮﮔﺍ
+
+Requests
+== ﺎﻫ ﺖﺳﺍﻮﺧﺭﺩ
+
+Request
+== ﺖﺳﺍﻮﺧﺭﺩ
+
+Request ID: #%d
+== ﺖﺳﺍﻮﺧﺭﺩ ﯼﺪﯾﺁ: #%d
+
+Request ID: 
+== ﺖﺳﺍﻮﺧﺭﺩ ﯼﺪﯾﺁ: 
+
+Client ID: %d
+== ﺖﻨﯾﻼﮐ ﯼﺪﯾﺁ: %d
+
+Client ID: 
+== ﺖﻨﯾﻼﮐ ﯼﺪﯾﺁ: 
+
+Server: %s:%d
+== ﺭﻭﺮﺳ: %s:%d
+
+Server Address: 
+== ﺱﺭﺩﺁ ﺭﻭﺮﺳ: 
+
+Server Port: 
+== ﺕﺭﻮﭘ ﺭﻭﺮﺳ: 
+
+Server Map: 
+== ﺭﻭﺮﺳ ﻪﺸﻘﻧ: 
+
+Map: %s
+== ﻪﺸﻘﻧ: %s
+
+Create Date: %s
+== ﺩﺎﺠﯾﺍ ﺦﯾﺭﺎﺗ: %s
+
+Create Date: 
+== ﺩﺎﺠﯾﺍ ﺦﯾﺭﺎﺗ: 
+
+Status: %s
+== ﺖﯿﻌﺿﻭ: %s
+
+^gAccepted^/
+== ^gﻩﺪﺷ ﻪﺘﻓﺮﯾﺬﭘ^/
+
+^yPending^/
+== ^yﺭﺎﻈﺘﻧﺍ ﺭﺩ^/
+
+^yWaiting^/
+== ^yﺭﺎﻈﺘﻧﺍ ﺭﺩ^/
+
+Helper ID: %d
+== ﻩﺪﻨﻨﮐ ﮏﻤﮐ ﯼﺪﯾﺁ: %d
+
+Helper ID: 
+== ﻩﺪﻨﻨﮐ ﮏﻤﮐ ﯼﺪﯾﺁ: 
+
+Helper Name: %s
+== ﻩﺪﻨﻨﮐ ﮏﻤﮐ ﻡﺎﻧ: %s
+
+Helper Name: 
+== ﻩﺪﻨﻨﮐ ﮏﻤﮐ ﻡﺎﻧ: 
+
+Accept Date: %s
+== ﺵﺮﯾﺬﭘ ﺦﯾﺭﺎﺗ: %s
+
+Accept Date: 
+== ﺵﺮﯾﺬﭘ ﺦﯾﺭﺎﺗ: 
+
+Answered: 
+== ﺦﺳﺎﭘ ﺖﯿﻌﺿﻭ: 
+
+^gYes^/
+== ^gﻪﻠﺑ^/
+
+^rNo^/
+== ^rﺮﯿﺧ^/
 
 Quitting. Please wait…
 == ...ﺪﯿﻨﮐ ﺮﺒﺻ ﺎﻔﻄﻟ .ﺝﻭﺮﺧ ﻝﺎﺣ ﺭﺩ
