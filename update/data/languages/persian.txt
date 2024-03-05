@@ -106,9 +106,6 @@ Demo details
 Demofile: %s
 == %s :ﻮﻣﺩ ﻞﯾﺎﻓ
 
-Demos
-== ﺎﻫ ﻮﻣﺩ
-
 Disconnect
 == ﯼﺯﺎﺑ ﺯﺍ ﺝﻭﺮﺧ
 
@@ -347,8 +344,8 @@ Browser
 Ghost
 == ﺡﻭﺭ ﺖﻟﺎﺣ 
 
-Loading Iran DDNet Client
-== ﺖﻨﯾﺪﯾﺩ ﻥﺍﺮﯾﺍ ﺖﻨﯾﻼﮐ ﻥﺩﺮﮐ ﻩﺩﺎﻣﺁ ﻝﺎﺣ ﺭﺩ
+IranDDnet Client
+== ﺖﻨﯾﺪﯾﺩ ﻥﺍﺮﯾﺍ ﺖﻨﯾﻼﮐ
 
 Reconnect in %d sec
 == ﻪﯿﻧﺎﺛ %d ﺭﺩ ﻩﺭﺎﺑﻭﺩ ﻝﺎﺼﺗﺍ
@@ -385,8 +382,8 @@ Disconnect Dummy
 Are you sure that you want to disconnect your dummy?
 == ؟ﯽﻨﮐ ﻊﻄﻗ ﻭﺭ ﯽﻣﺍﺩ ﯼﺍﻮﺨﯿﻣ ﯽﻨﺌﻤﻄﻣ
 
-Welcome to DDNet
-== ﯼﺪﻣﺁ ﺵﻮﺧ ﺖﻨﯾﺪﯾﺩ ﻪﺑ
+Welcome to IranDDnet
+== ﯼﺪﻣﺁ ﺵﻮﺧ ﺖﻨﯾﺪﯾﺩ ﻥﺍﺮﯾﺍ ﻪﺑ
 
 DDraceNetwork is a cooperative online game where the goal is for you and your group of tees to reach the finish line of the map. As a newcomer you should start on Novice servers, which host the easiest maps. Consider the ping to choose a server close to you.
 == ﺎﻤﺷ.ﺖﺳﺍ ﻥﺎﯾﺎﭘ ﻂﺧ ﻪﺑ ﻉﻭﺮﺷ ﻂﺧ ﺯﺍ ﻥﺎﺘﻤﯿﺗ ﻭ ﺎﻤﺷ ﻥﺪﯿﺳﺭ ﻥﺁ ﻑﺪﻫ ﻪﮐ ﺖﺳﺍ ﯽﻤﯿﺗ ﻦﯾﻼﻧﺁ ﯼﺯﺎﺑ ﮏﯾ DDraceNetwork                            ﺪﯿﻨﮐ ﻩﺩﺎﻔﺘﺳﺍ ﺪﻫﺪﯿﻣ ﺍﺭ ﮓﻨﯿﭘ ﻦﯾﺮﺗ ﻦﯿﯾﺎﭘ ﻪﮐ ﯼﺭﻭﺮﺳ ﺎﻤﺘﺣ ﻭ ﺪﯿﻨﮑﺑ ﻥﺩﺮﮐ ﯼﺯﺎﺑ ﻪﺑ ﻉﻭﺮﺷ Novice ﯼﺎﻫ ﺭﻭﺮﺳ ﺯﺍ ﺪﯾﺎﺑ ﺪﯿﺘﺴﻫ ﺩﺭﺍﻭ ﻩﺯﺎﺗ ﻪﮐ
@@ -1256,11 +1253,14 @@ Appearance
 DDNet
 == ﺖﻨﯾﺪﯾﺩ
 
+IranDDnet
+== ﺖﻨﯾﺪﯾﺩ ﻥﺍﺮﯾﺍ
+
 Assets
 == ﺎﻫ ﯽﯾﺍﺭﺍﺩ
 
-DDNet Client needs to be restarted to complete update!
-== !ﺩﻮﺷ ﺕﺭﺎﺘﺳﺍ ﯼﺭ ﺪﯾﺎﺑ ﯽﻧﺎﺳﺭﺯﻭﺭ‌ﻪﺑ ﻞﯿﻤﮑﺗ ﯼﺍﺮﺑ ﺖﻨﯾﺪﯾﺩ ﺖﻨﯾﻼﮐ
+IranDDnet Client needs to be restarted to complete update!
+== !ﺩﻮﺷ ﺕﺭﺎﺘﺳﺍ ﯼﺭ ﺪﯾﺎﺑ ﯽﻧﺎﺳﺭﺯﻭﺭ‌ﻪﺑ ﻞﯿﻤﮑﺗ ﯼﺍﺮﺑ ﺖﻨﯾﺪﯾﺩ ﻥﺍﺮﯾﺍ ﺖﻨﯾﻼﮐ
 
 You must restart the game for all settings to take effect.
 == .ﺪﯿﻨﮐ ﯼﺯﺍﺪﻧﺍ ﻩﺍﺭ ﺍﺩﺪﺠﻣ ﺍﺭ ﯼﺯﺎﺑ ﺪﯾﺎﺑ ﺕﺎﻤﯿﻈﻨﺗ ﯽﻣﺎﻤﺗ ﻝﺎﻤﻋﺍ ﯼﺍﺮﺑ
@@ -1508,8 +1508,8 @@ Chat command (e.g. showall 1)
 DDNet %s is available:
 == :ﺖﺳﺍ ﺩﻮﺟﻮﻣ ﺖﻨﯾﺪﯾﺩ %s
 
-DDNet Client updated!
-== !ﺪﺷ ﺯﻭﺭ ﻪﺑ ﺖﻨﯾﺪﯾﺩ ﺖﻨﯾﻼﮐ
+IranDDnet Client updated!
+== !ﺪﺷ ﺯﻭﺮﺑ ﺖﻨﯾﺪﯾﺩ ﻥﺍﺮﯾﺍ ﺖﻨﯾﻼﮐ
 
 Emoticons
 == ﺎﻫ ﮏﻠﮑﺷ
@@ -2716,6 +2716,48 @@ Answered:
 
 ^rNo^/
 == ^rﺮﯿﺧ^/
+
+History
+== ﻪﭽﺨﯾﺭﺎﺗ
+
+Events History
+== ﺎﻫﺩﺍﺪﯾﻭﺭ ﻪﭽﺨﯾﺭﺎﺗ
+
+Completed: 
+== ﻩﺪﺷ ﻞﻣﺎﮐ: 
+
+Registered: 
+== ﻩﺪﺷ ﻡﺎﻧ ﺖﺒﺛ: 
+
+^rDeactivate^/
+== ^rﯼﺯﺎﺳ ﻝﺎﻌﻓﺮﯿﻏ^/
+
+^gActivate^/
+== ^gﯼﺯﺎﺳ ﻝﺎﻌﻓ^/
+
+⚫·· Challenge ··⚫
+== ⚫·· ﺞﻨﻠﭼ ··⚫
+
+✧ Finish Map 1: %s %s Reward: %s TC
+== ✧ ﭗﻣ ﻥﺩﺮﮐ ﻡﺎﻤﺗ 1: %s %s ﻩﺰﯾﺎﺟ: %s TC
+
+✧ Finish Map 2: %s %s Reward: %s TC
+== ✧ ﭗﻣ ﻥﺩﺮﮐ ﻡﺎﻤﺗ 2: %s %s ﻩﺰﯾﺎﺟ: %s TC
+
+✧ Finish Map 3: %s %s Reward: %s TC
+== ✧ ﭗﻣ ﻥﺩﺮﮐ ﻡﺎﻤﺗ 3: %s %s ﻩﺰﯾﺎﺟ: %s TC
+
+✧ Finish Map 4: %s %s Reward: %s TC
+== ✧ ﭗﻣ ﻥﺩﺮﮐ ﻡﺎﻤﺗ 4: %s %s ﻩﺰﯾﺎﺟ: %s TC
+
+✧ Finish Map 5: %s %s Reward: %s TC
+== ✧ ﭗﻣ ﻥﺩﺮﮐ ﻡﺎﻤﺗ 5: %s %s ﻩﺰﯾﺎﺟ: %s TC
+
+Loading...
+== ﯼﺮﯿﮔﺭﺎﺑ ﻝﺎﺣ ﺭﺩ...
+
+Demos
+== ﺎﻫﻮﻣﺩ
 
 Quitting. Please wait…
 == ...ﺪﯿﻨﮐ ﺮﺒﺻ ﺎﻔﻄﻟ .ﺝﻭﺮﺧ ﻝﺎﺣ ﺭﺩ
