@@ -2193,28 +2193,28 @@ Buyer Pc Name:
 == ﺭﺍﺪﯾﺮﺧ ﺮﺗﻮﯿﭙﻣﺎﮐ ﻡﺎﻧ:
 
 Order ID: %d
-== %d :ﺵﺭﺎﻔﺳ ﻪﺳﺎﻨﺷ
+== ﺵﺭﺎﻔﺳ ﻪﺳﺎﻨﺷ: %d
 
 Service ID: %d
-== %d :ﺲﯾﻭﺮﺳ ﻪﺳﺎﻨﺷ
+== ﺲﯾﻭﺮﺳ ﻪﺳﺎﻨﺷ: %d
 
 Service Name: %s
-== %s :ﺲﯾﻭﺮﺳ ﻡﺎﻧ
+== ﺲﯾﻭﺮﺳ ﻡﺎﻧ: %s
 
 Service Category: %s
-== %s :ﺲﯾﻭﺮﺳ ﯼﺪﻨﺑ ﻪﺘﺳﺩ
+== ﺲﯾﻭﺮﺳ ﯼﺪﻨﺑ ﻪﺘﺳﺩ: %s
 
 Order Status: ^g%s
-== ^w%s^g :ﺵﺭﺎﻔﺳ ﺖﯿﻌﺿﻭ
+== ﺵﺭﺎﻔﺳ ﺖﯿﻌﺿﻭ: ^g%s^w
 
 Order Date: %s
-== %s :ﺵﺭﺎﻔﺳ ﺦﯾﺭﺎﺗ
+== ﺵﺭﺎﻔﺳ ﺦﯾﺭﺎﺗ: %s
 
 %d days until finished!
 == !ﻡﺎﻤﺗﺍ ﺎﺗ ﺯﻭﺭ %d
 
 Remains Day: %s
-== %s :ﻩﺪﻧﺎﻣ ﯽﻗﺎﺑ ﺯﻭﺭ ﺩﺍﺪﻌﺗ
+== ﻩﺪﻧﺎﻣ ﯽﻗﺎﺑ ﺯﻭﺭ ﺩﺍﺪﻌﺗ: %s
 
 Cancel Order
 == ﺵﺭﺎﻔﺳ ﻮﻐﻟ
@@ -2736,7 +2736,7 @@ Registered:
 == ^gﯼﺯﺎﺳ ﻝﺎﻌﻓ^/
 
 ⚫·· Challenge ··⚫
-== ⚫·· ﺞﻨﻠﭼ ··⚫
+== ⚫·· ﺶﻟﺎﭼ ··⚫
 
 ✧ Finish Map 1: %s %s Reward: %s TC
 == ✧ ﭗﻣ ﻥﺩﺮﮐ ﻡﺎﻤﺗ 1: %s %s ﻩﺰﯾﺎﺟ: %s TC
@@ -2758,6 +2758,9 @@ Loading...
 
 Demos
 == ﺎﻫﻮﻣﺩ
+
+There is no active challenge!
+== !ﺩﺭﺍﺪﻧ ﺩﻮﺟﻭ ﯽﻟﺎﻌﻓ ﺶﻟﺎﭼ ﭻﯿﻫ
 
 Quitting. Please wait…
 == ...ﺪﯿﻨﮐ ﺮﺒﺻ ﺎﻔﻄﻟ .ﺝﻭﺮﺧ ﻝﺎﺣ ﺭﺩ
