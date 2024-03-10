@@ -2762,6 +2762,9 @@ Demos
 There is no active challenge!
 == !ﺩﺭﺍﺪﻧ ﺩﻮﺟﻭ ﯽﻟﺎﻌﻓ ﺶﻟﺎﭼ ﭻﯿﻫ
 
+Are you sure that you want to remove your service?    (^rYou will not receive TC refund.^/)
+== ؟ ﺪﯿﻨﮐ ﻑﺬﺣ ﺍﺭ ﺩﻮﺧ ﺲﯾﻭﺮﺳ ﺪﯿﻫﺍﻮﺨﯿﻣ ﻪﮐ ﺪﯿﺘﺴﻫ ﻦﺌﻤﻄﻣ ﺎﯾﺁ              (^rﺎﻤﺷ ﺖﻧﺎﮐﺍ ﻪﺑ ﺩﻮﺸﯿﻤﻧ ﻩﺪﻧﺍﺩﺮﮔﺮﺑ TC ﭻﯿﻫ^/)
+
 Quitting. Please wait…
 == ...ﺪﯿﻨﮐ ﺮﺒﺻ ﺎﻔﻄﻟ .ﺝﻭﺮﺧ ﻝﺎﺣ ﺭﺩ
 
