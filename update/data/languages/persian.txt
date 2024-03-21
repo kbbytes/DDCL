@@ -2636,7 +2636,7 @@ Enter you friend's Referral ID
 Referral Confirmation
 == ﻑﺮﻌﻣ ﺪﯿﯾﺎﺗ
 
-You entered %s's Referral ID, if you sure press confirm
+You entered %s's referral ID, if you are sure press confirm
 == ﺪﯾﺍ ﻩﺩﺮﮐ ﺩﺭﺍﻭ ﺍﺭ %s ﻑﺮﻌﻣ ﻪﺳﺎﻨﺷ ،ﺪﯿﻫﺩ ﺭﺎﺸﻓ ﺍﺭ ﺪﯿﯾﺄﺗ ﺪﯿﺘﺴﻫ ﻦﺌﻤﻄﻣ ﺮﮔﺍ
 
 Requests
