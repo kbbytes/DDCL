@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+added.txt
+added_out.txt
+files.txt
+deleted.txt
+deleted_out.txt
+modified.txt
+modified_out.txt
+ready.py
