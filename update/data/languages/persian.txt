@@ -2765,6 +2765,9 @@ There is no active challenge!
 Are you sure that you want to remove your service?    (^rYou will not receive TC refund.^/)
 == ؟ ﺪﯿﻨﮐ ﻑﺬﺣ ﺍﺭ ﺩﻮﺧ ﺲﯾﻭﺮﺳ ﺪﯿﻫﺍﻮﺨﯿﻣ ﻪﮐ ﺪﯿﺘﺴﻫ ﻦﺌﻤﻄﻣ ﺎﯾﺁ              (^rﺎﻤﺷ ﺖﻧﺎﮐﺍ ﻪﺑ ﺩﻮﺸﯿﻤﻧ ﻩﺪﻧﺍﺩﺮﮔﺮﺑ TC ﭻﯿﻫ^/)
 
+You have been sending too many requests.You need to wait for '%d' seconds before sending new requests.
+== .ﺪﯾﺪﺟ ﺖﺳﺍﻮﺧﺭﺩ ﻝﺎﺳﺭﺍ ﯼﺍﺮﺑ ﺪﯿﻨﮐ ﺮﺒﺻ ﻪﯿﻧﺎﺛ '%d' ﺕﺪﻣ ﻪﺑ ﺪﯾﺎﺑ ,ﺪﯾﺍ ﻩﺩﺎﺘﺳﺮﻓ ﺖﺳﺍﻮﺧﺭﺩ ﯼﺩﺎﯾﺯ ﺩﺍﺪﻌﺗ ﺎﻤﺷ
+
 Quitting. Please wait…
 == ...ﺪﯿﻨﮐ ﺮﺒﺻ ﺎﻔﻄﻟ .ﺝﻭﺮﺧ ﻝﺎﺣ ﺭﺩ
 
