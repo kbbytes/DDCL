@@ -4,7 +4,9 @@
 		"client": true,
 		"server": false,
 		"download": [
-			"data/languages/persian.txt",
+			"data/languages/persian.txt"
+		],
+		"remove": [
 			"data/iranddnet/assets/audio/intro.wav", 
 			"data/iranddnet/assets/intro_(1).jpg", 
 			"data/iranddnet/assets/intro_(10).jpg", 
