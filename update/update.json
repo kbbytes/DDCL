@@ -3,7 +3,11 @@
 		"version": "1.2.5",
 		"client": true,
 		"server": false,
-		"download": [],
+		"download": [
+			"data/languages/persian.txt",
+			"data/iranddnet/background.png",
+			"data/gui_logo.png"
+		],
 		"remove": []
 	},
 	{
