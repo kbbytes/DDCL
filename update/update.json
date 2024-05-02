@@ -1,5 +1,12 @@
 [
     {
+		"version": "1.2.7",
+		"client": true,
+		"server": false,
+		"download": [],
+		"remove": []
+	},
+    {
 		"version": "1.2.6",
 		"client": true,
 		"server": false,
