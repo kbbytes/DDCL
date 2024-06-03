@@ -126,6 +126,459 @@
 			"servers": {}
 		}
 	],
+	"assets": [
+		{
+            "id": "gastly",
+			"type": "assets/skins",
+            "name": "Gastly Asset Skins",
+            "file": {
+                "sha256": "DA977526BA29AD5C166C37DCEFB0363DD490D92168D1C9E93029E07F6E0C6BBB",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/skins/gastly.png"
+            }
+        },
+		{
+            "id": "zombie",
+			"type": "assets/gameskins",
+            "name": "Zombie Asset Gameskins",
+            "file": {
+                "sha256": "37B80BF9AA5C1F02E350A01498DD7B0AFDA4C4C7A067388415875E15AC3DA37E",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/gameskins/zombie.png"
+            }
+        },
+		{
+            "id": "fx_list",
+			"type": "emote+",
+            "name": "FX List EmotePlus",
+            "file": {
+                "sha256": "991EE125B52526A0556328D9BF5C191EC609B6A6C58512480CC3A1200DDB2314",
+                "url": "https://dl.iranddnet.ir/iranddnet/emote+/fx_list.png"
+            }
+        },
+		{
+            "id": "playerspawn",
+			"type": "emote+",
+            "name": "Player Spawn EmotePlus",
+            "file": {
+                "sha256": "E04FD7A30B927A646A63D915640522EEDBD3317D71048AC329A9E7D41FC4940E",
+                "url": "https://dl.iranddnet.ir/iranddnet/emote+/playerspawn.png"
+            }
+        },
+		{
+            "id": "scythe",
+			"type": "emote+",
+            "name": "Scythe EmotePlus",
+            "file": {
+                "sha256": "E5B491F607AC4A37F601DAD6EC25DB8C7A17E9B8F24194B9258E6C0D82C5CA82",
+                "url": "https://dl.iranddnet.ir/iranddnet/emote+/scythe.png"
+            }
+        },
+		{
+            "id": "shield",
+			"type": "emote+",
+            "name": "Shield EmotePlus",
+            "file": {
+                "sha256": "06E17C6454A29D79C5232761F928469B61A0B72638E607517EBEAEC4FBF366DB",
+                "url": "https://dl.iranddnet.ir/iranddnet/emote+/shield.png"
+            }
+        },
+		{
+            "id": "sparks",
+			"type": "emote+",
+            "name": "Spark EmotePlus",
+            "file": {
+                "sha256": "DF8F47DFAE33E5E8BE879449CC5F90C80B88398E3107F8727B19CF80F59BB92A",
+                "url": "https://dl.iranddnet.ir/iranddnet/emote+/sparks.png"
+            }
+        },
+		{
+            "id": "chain",
+			"type": "extra",
+            "name": "Chain Extra",
+            "file": {
+                "sha256": "89039DCC85B42579532FB86B3E67CB9968ACDDCB2A941F027630EDD4C39F4BD9",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/chain.png"
+            }
+        },
+		{
+            "id": "cross",
+			"type": "extra",
+            "name": "Cross Extra",
+            "file": {
+                "sha256": "AA06ACD7EF38C9EE701BEA12E427EBAD9744B32D4D158B83F2A4CCABB3B112B0",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/cross.png"
+            }
+        },
+		{
+            "id": "discord",
+			"type": "extra",
+            "name": "Discord Extra",
+            "file": {
+                "sha256": "74091CE953D167F2CA62AE477E332664DBA37472819AEB162E70162E965AA03B",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/discord.png"
+            }
+        },
+		{
+            "id": "emoticons",
+			"type": "extra",
+            "name": "Emoticons Extra",
+            "file": {
+                "sha256": "5D88C300478B92CCB6E7214599A0E073D10C90A95B81CE2C4CB7EC107FBF85AA",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/emoticons.png"
+            }
+        },
+		{
+            "id": "irdd_icons",
+			"type": "extra",
+            "name": "Irdd Icons Extra",
+            "file": {
+                "sha256": "6BD72F54CA38D25BE0E64C3C04333674DC2A6EDB1457C18B6C9C2216FFA0B6A8",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/irdd_icons.png"
+            }
+        },
+		{
+            "id": "mta",
+			"type": "extra",
+            "name": "MTA Extra",
+            "file": {
+                "sha256": "DFDDBA9961174360132A33CA961A2EB65D4F4CB4AA2C3D01808782810CB2FA0C",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/mta.png"
+            }
+        },
+		{
+            "id": "premium_product",
+			"type": "extra",
+            "name": "Premium Product Extra",
+            "file": {
+                "sha256": "C28011FF2DDA54AD57CEEA145342FCC6575DEC7F2DBF1C65C108128BFD52BF7C",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/premium_product.png"
+            }
+        },
+		{
+            "id": "sound",
+			"type": "extra",
+            "name": "Soundboard Icon Extra",
+            "file": {
+                "sha256": "2A8AF9993DCEB3AE7E1CF8779CFE3098F1DE6AFEB8D7765BA8CDB86354D00B6B",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/sound.png"
+            }
+        },
+		{
+            "id": "soundboard_emote",
+			"type": "extra",
+            "name": "Soundboard Emote Extra",
+            "file": {
+                "sha256": "7D2FE784E8233ECD960978A15DB60EDD20BCA1CDFE2AC1A65ECC4568DA674931",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/soundboard_emote.png"
+            }
+        },
+		{
+            "id": "splatter",
+			"type": "extra",
+            "name": "Splatter Extra",
+            "file": {
+                "sha256": "CA8C9BBE56FC5C79F2AD532F7F7936B66A234EA15ACE51FAF398D29EA146B218",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/splatter.png"
+            }
+        },
+		{
+            "id": "teecoin",
+			"type": "extra",
+            "name": "Teecoin Extra",
+            "file": {
+                "sha256": "484FBC3E10F7404F509A19CE75207AAEB28DCDF66783FBE7CE9894335289A5E9",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/teecoin.png"
+            }
+        },
+		{
+            "id": "pack",
+			"type": "extra/bloods",
+            "name": "Pack Blood",
+            "file": {
+                "sha256": "30E84AB95B5BA194E902D734C3D58AE6B5782474DA61A226A394B3D87BDC957B",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/bloods/pack.png"
+            }
+        },
+		{
+            "id": "help",
+			"type": "extra/commands",
+            "name": "Help Command",
+            "file": {
+                "sha256": "E2D0B6EF76B8875D492098954A083DAC9983ACC8D0B7B38317A28EFE4571E2B5",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/commands/help.png"
+            }
+        },
+		{
+            "id": "report",
+			"type": "extra/commands",
+            "name": "Report Command",
+            "file": {
+                "sha256": "88365353FBACC1EBA8AF6617B5C6FC84E22E785684E1720673C7F53E98D5BD10",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/commands/report.png"
+            }
+        },
+		{
+            "id": "request",
+			"type": "extra/commands",
+            "name": "Request Command",
+            "file": {
+                "sha256": "A2DBDF6516E1BBBA9B966A2966AA268FCC050EB289CB602EF4E9DA4B8C7048C3",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/commands/request.png"
+            }
+        },
+        {
+            "id": "admin_ddrace",
+			"type": "extra/staffbadges",
+            "name": "Admin DDRace Badge",
+            "file": {
+                "sha256": "351F7AE1C642B505381D092BCB868A5D062A6BCA82E9E0018BB6498B1F3EFE40",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/staffbadges/admin_ddrace.png"
+            }
+        },
+        {
+            "id": "admin_gores",
+			"type": "extra/staffbadges",
+            "name": "Admin Gores Badge",
+            "file": {
+                "sha256": "DFB1E64E5C040729092F401608A6DD59EA51760CACA8FB39A82F03FC5DD806BD",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/staffbadges/admin_gores.png"
+            }
+        },
+		{
+            "id": "admin_sunny",
+			"type": "extra/staffbadges",
+            "name": "Admin Sunny Badge",
+            "file": {
+                "sha256": "6329BC1A549F1C66EA99210B84C2225C6043FADFBB21C39D7CD792163E4CF924",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/staffbadges/admin_sunny.png"
+            }
+        },
+		{
+            "id": "administrator",
+			"type": "extra/staffbadges",
+            "name": "Administrator Badge",
+            "file": {
+                "sha256": "4C6E5EA72016646A4D907296E5BE8C259AB14011E14C3FFC3FFD00E82D8AE871",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/staffbadges/administrator.png"
+            }
+        },
+		{
+            "id": "developer",
+			"type": "extra/staffbadges",
+            "name": "Developer Badge",
+            "file": {
+                "sha256": "2686F0330CF880898E99E3381CC2AAB1D6A594457F3E845D284F5549ADE82A3F",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/staffbadges/developer.png"
+            }
+        },
+		{
+            "id": "head_admin",
+			"type": "extra/staffbadges",
+            "name": "Head Admin Badge",
+            "file": {
+                "sha256": "21863E4866FF45F2C50B1871D86088CD7625D4482E69C620C65E9C9F96227D90",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/staffbadges/head_admin.png"
+            }
+        },
+		{
+            "id": "helper",
+			"type": "extra/staffbadges",
+            "name": "Helper Badge",
+            "file": {
+                "sha256": "46D63A0A439AE1DCD813DE542AF0224AAADF964596E156251036978820C2B5B2",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/staffbadges/helper.png"
+            }
+        },
+		{
+            "id": "manager",
+			"type": "extra/staffbadges",
+            "name": "Manager Badge",
+            "file": {
+                "sha256": "608ABDE1C86C8FCF94545E20BC0D9F3E51889D3D52D86BED44989981DF553219",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/staffbadges/manager.png"
+            }
+        },
+		{
+            "id": "moderator",
+			"type": "extra/staffbadges",
+            "name": "Moderator Badge",
+            "file": {
+                "sha256": "5F387ACCCB860DB95F17DF4AA26AB8D0BB35E706FD0EFA6EFC8CBE844B52BBB0",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/staffbadges/moderator.png"
+            }
+        },
+		{
+            "id": "owner",
+			"type": "extra/staffbadges",
+            "name": "Owner Badge",
+            "file": {
+                "sha256": "E8F1E055482173997868B079B58F265812ED6D859ACB2D1AB3B86210C3233957",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/staffbadges/owner.png"
+            }
+        },
+		{
+            "id": "special",
+			"type": "extra/staffbadges",
+            "name": "Special Badge",
+            "file": {
+                "sha256": "78E7D175E8712BD0D05EDA89A78D04D443E06ACC74977FF70AC997FAF5FFBF2C",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/staffbadges/special.png"
+            }
+        },
+		{
+            "id": "supervisor",
+			"type": "extra/staffbadges",
+            "name": "Supervisor Badge",
+            "file": {
+                "sha256": "F62C5C5E77E4426F531416B3A5C261F4D6318A46F4EF6336351EEDDE18639AD3",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/staffbadges/supervisor.png"
+            }
+        },
+		{
+            "id": "trial_admin",
+			"type": "extra/staffbadges",
+            "name": "Trial Admin Badge",
+            "file": {
+                "sha256": "1A11123417A87E5146FBC70D01EDDE052D5072F6A2212EC493F8E66F0719EF2E",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/staffbadges/trial_admin.png"
+            }
+        },
+		{
+            "id": "blackface",
+			"type": "jumpscare",
+            "name": "Black Face JumpScare",
+            "file": {
+                "sha256": "6B644AE1EF8E9E8F8289DC6AD6E65834D4DDFC8413096A89DC486B93056D1085",
+                "url": "https://dl.iranddnet.ir/iranddnet/jumpscare/blackface.png"
+            }
+        },
+		{
+            "id": "clanroom",
+			"type": "shop",
+            "name": "Vip Shop",
+            "file": {
+                "sha256": "8D10B9D476572224E37F210F86255F37750F7BC4A31B499CAFCAFFF377E9CDB7",
+                "url": "https://dl.iranddnet.ir/iranddnet/shop/clanroom.png"
+            }
+        },
+		{
+            "id": "clantag",
+			"type": "shop",
+            "name": "Vip Shop",
+            "file": {
+                "sha256": "84D11BA5C9B82A207D803320D4BF286D212D0B18C3FD3D2DA48CB8C65AE5ACFE",
+                "url": "https://dl.iranddnet.ir/iranddnet/shop/clantag.png"
+            }
+        },
+		{
+            "id": "emoteplus",
+			"type": "shop",
+            "name": "Vip Shop",
+            "file": {
+                "sha256": "AAD70CB8C773A96CBEC5035AC6539A47A7CF85349CD22035516D23A1D65B8B60",
+                "url": "https://dl.iranddnet.ir/iranddnet/shop/emoteplus.png"
+            }
+        },
+		{
+            "id": "moder",
+			"type": "shop",
+            "name": "Vip Shop",
+            "file": {
+                "sha256": "E190AA2E3420E2C092A7CDA42A8A9E041FFEFF407FAF82DDB0686E58BE642845",
+                "url": "https://dl.iranddnet.ir/iranddnet/shop/moder.png"
+            }
+        },
+		{
+            "id": "nitrotee",
+			"type": "shop",
+            "name": "Vip Shop",
+            "file": {
+                "sha256": "8D1F69798DA2780B3B7D84611AF0885C235C17FED76630C671679A06482BFBDF",
+                "url": "https://dl.iranddnet.ir/iranddnet/shop/nitrotee.png"
+            }
+        },
+		{
+            "id": "petflytee",
+			"type": "shop",
+            "name": "Vip Shop",
+            "file": {
+                "sha256": "D90CBA6187241CB4D5104ED6200B23BDEA4476D478AF94577684F2B8C25F888E",
+                "url": "https://dl.iranddnet.ir/iranddnet/shop/petflytee.png"
+            }
+        },
+		{
+            "id": "pettee",
+			"type": "shop",
+            "name": "Vip Shop",
+            "file": {
+                "sha256": "F07B4668E4AF6E571F33A808C6E93C6D462701E2E807566577D28D5B31E13489",
+                "url": "https://dl.iranddnet.ir/iranddnet/shop/pettee.png"
+            }
+        },
+		{
+            "id": "premium",
+			"type": "shop",
+            "name": "Vip Shop",
+            "file": {
+                "sha256": "DBFCF57C784951A072DE647A2E8EDB6968A152C58AE15D0B2F39C3234C55BDC8",
+                "url": "https://dl.iranddnet.ir/iranddnet/shop/premium.png"
+            }
+        },
+		{
+            "id": "rainbowname",
+			"type": "shop",
+            "name": "Vip Shop",
+            "file": {
+                "sha256": "8017EFA112618D761A587136D2AFE08A5FAAA9E5A549B7999C40E7C8D0A49EBD",
+                "url": "https://dl.iranddnet.ir/iranddnet/shop/rainbowname.png"
+            }
+        },
+		{
+            "id": "soundboard",
+			"type": "shop",
+            "name": "Soundboard Shop",
+            "file": {
+                "sha256": "96BC5523D84CE58A2F5B5265ABB4FEF7A69733439ABF5C157087B0BC51737AD6",
+                "url": "https://dl.iranddnet.ir/iranddnet/shop/soundboard.png"
+            }
+        },
+		{
+            "id": "vip",
+			"type": "shop",
+            "name": "Vip Shop",
+            "file": {
+                "sha256": "F5140700CD57FE5ADA8F033E3F24CE6390E9DC049A81E3B19B6C3F6AAEC384E9",
+                "url": "https://dl.iranddnet.ir/iranddnet/shop/vip.png"
+            }
+        },
+		{
+            "id": "vip+",
+			"type": "shop",
+            "name": "Vip+ Shop",
+            "file": {
+                "sha256": "5DE59D9575BE888687F65B85E1A3326433E606FA9DD9F9A8A83D034E57FE3176",
+                "url": "https://dl.iranddnet.ir/iranddnet/shop/vip+.png"
+            }
+        },
+		{
+            "id": "vip++",
+			"type": "shop",
+            "name": "Vip++ Shop",
+            "file": {
+                "sha256": "84E663F6BB4E9D7FF5361ADE66E110598A5D818A8A2EF18380237199EABB56FB",
+                "url": "https://dl.iranddnet.ir/iranddnet/shop/vip++.png"
+            }
+        },
+		{
+            "id": "background",
+			"type": "",
+            "name": "Background",
+            "file": {
+                "sha256": "44B3C922F3656529630616A438EF2AC5A15B0E71325EC5DB71D98EDA5E19A085",
+                "url": "https://dl.iranddnet.ir/iranddnet/background.png"
+            }
+        }
+    ],
+    "asset-download-url": "https://dl.iranddnet.ir/iranddnet",
 	"force_update": 1,
 	"developer": "Vexar",
 	"official_hostname": "iranddnet",
