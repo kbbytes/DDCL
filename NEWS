@@ -227,6 +227,15 @@
             }
         },
 		{
+            "id": "ird_tee_world",
+			"type": "extra",
+            "name": "Ird TW Extra",
+            "file": {
+                "sha256": "80CB4654FB25FEFEC0A837BE309A477167C6F84578918C9CBA5C989706159BE9",
+                "url": "https://dl.iranddnet.ir/iranddnet/extra/ird_tee_world.png"
+            }
+        },
+		{
             "id": "irdd_icons",
 			"type": "extra",
             "name": "Irdd Icons Extra",
