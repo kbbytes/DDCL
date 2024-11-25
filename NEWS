@@ -128,21 +128,192 @@
 	],
 	"assets": [
 		{
-            "id": "gastly",
+            "id": "Skin_IRDD_01",
 			"type": "assets/skins",
-            "name": "Gastly Asset Skins",
+            "name": "IRDD 01 Skin Asset",
             "file": {
-                "sha256": "DA977526BA29AD5C166C37DCEFB0363DD490D92168D1C9E93029E07F6E0C6BBB",
-                "url": "https://dl.iranddnet.ir/iranddnet/assets/skins/gastly.png"
+                "sha256": "8CBB8F9AECB93370493D5C36D21B77FC90E5E996C1C339D84C50574570A4300C",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/skins/Skin_IRDD_01.png"
             }
         },
 		{
-            "id": "zombie",
-			"type": "assets/gameskins",
-            "name": "Zombie Asset Gameskins",
+            "id": "Skin_IRDD_02",
+			"type": "assets/skins",
+            "name": "IRDD 02 Skin Asset",
             "file": {
-                "sha256": "37B80BF9AA5C1F02E350A01498DD7B0AFDA4C4C7A067388415875E15AC3DA37E",
-                "url": "https://dl.iranddnet.ir/iranddnet/assets/gameskins/zombie.png"
+                "sha256": "851C1F737D36FB02D248D87B870B40ADABDEBB6E7EE8412A0E57525C37D2195D",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/skins/Skin_IRDD_02.png"
+            }
+        },
+		{
+            "id": "Skin_IRDD_03",
+			"type": "assets/skins",
+            "name": "IRDD 03 Skin Asset",
+            "file": {
+                "sha256": "0AC8759D5DFE596A3026A46B713CE09F13BE5E61F37CC84A460397BDB85CEC93",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/skins/Skin_IRDD_03.png"
+            }
+        },
+		{
+            "id": "Skin_IRDD_04",
+			"type": "assets/skins",
+            "name": "IRDD 04 Skin Asset",
+            "file": {
+                "sha256": "F797237344FBFD35BFB648EBC882240B3B5615616E7C24529E49C547252538AE",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/skins/Skin_IRDD_04.png"
+            }
+        },
+		{
+            "id": "Skin_IRDD_05",
+			"type": "assets/skins",
+            "name": "IRDD 05 Skin Asset",
+            "file": {
+                "sha256": "731A9E922C64DC401532F6F49A4E3E2AAB9DBB744525DA7CB4E480CF5F4FEA08",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/skins/Skin_IRDD_05.png"
+            }
+        },
+		{
+            "id": "Skin_IRDD_06",
+			"type": "assets/skins",
+            "name": "IRDD 06 Skin Asset",
+            "file": {
+                "sha256": "20801AD41C135839F42E56E145A67E0C964846DB839AF0FC4D6D6569477DFFE8",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/skins/Skin_IRDD_06.png"
+            }
+        },
+		{
+            "id": "Skin_IRDD_07",
+			"type": "assets/skins",
+            "name": "IRDD 07 Skin Asset",
+            "file": {
+                "sha256": "C2C20332A6518BB0FF01032A89B1AB010DD1F03CDDE5D03E0D22348787F5A633",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/skins/Skin_IRDD_07.png"
+            }
+        },
+		{
+            "id": "Skin_IRDD_08",
+			"type": "assets/skins",
+            "name": "IRDD 08 Skin Asset",
+            "file": {
+                "sha256": "EFCB2459E67005045BD9876773765065C0533E9BAA8087CB0748034A47FBCAF0",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/skins/Skin_IRDD_08.png"
+            }
+        },
+		{
+            "id": "Gameskin_IRDD_01",
+			"type": "assets/gameskins",
+            "name": "IRDD 01 Gameskin Asset",
+            "file": {
+                "sha256": "12B0C597055CC2D52B8B695EC465BD42005514386A6FD3B2BCA353BED77DF132",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/gameskins/Gameskin_IRDD_01.png"
+            }
+        },
+		{
+            "id": "Gameskin_IRDD_02",
+			"type": "assets/gameskins",
+            "name": "IRDD 02 Gameskin Asset",
+            "file": {
+                "sha256": "52DBEC91C046AEDD27D6D67132154B955375ABB98BAB676837F74D900E611FA2",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/gameskins/Gameskin_IRDD_02.png"
+            }
+        },
+		{
+            "id": "Gameskin_IRDD_03",
+			"type": "assets/gameskins",
+            "name": "IRDD 03 Gameskin Asset",
+            "file": {
+                "sha256": "2BF1F08D6643D23D0FA00F44D758C666123013F7FC5A3AE64B6DA08EB1516580",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/gameskins/Gameskin_IRDD_03.png"
+            }
+        },
+		{
+            "id": "Gameskin_IRDD_04",
+			"type": "assets/gameskins",
+            "name": "IRDD 04 Gameskin Asset",
+            "file": {
+                "sha256": "6503CFC4073F4F30FEE927B6B7CEAD4EE55BA8974B7E51D32EB7FB2112FF0201",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/gameskins/Gameskin_IRDD_04.png"
+            }
+        },
+		{
+            "id": "Gameskin_IRDD_05",
+			"type": "assets/gameskins",
+            "name": "IRDD 05 Gameskin Asset",
+            "file": {
+                "sha256": "6D78B2925074CC978DBF58C5500345D245EC32DA2D47A284B3A2BED6144AE572",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/gameskins/Gameskin_IRDD_05.png"
+            }
+        },
+		{
+            "id": "Gameskin_IRDD_06",
+			"type": "assets/gameskins",
+            "name": "IRDD 06 Gameskin Asset",
+            "file": {
+                "sha256": "A8E99D1CC0DB3714CE59451EA404EDE51A4F026ED01CE3AB5CDD40CF1A6F5CD1",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/gameskins/Gameskin_IRDD_06.png"
+            }
+        },
+		{
+            "id": "Gameskin_IRDD_07",
+			"type": "assets/gameskins",
+            "name": "IRDD 07 Gameskin Asset",
+            "file": {
+                "sha256": "E9268EC9D80942D344781AA49A65893CACA56AE28CFEAC6A838D616115CE8283",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/gameskins/Gameskin_IRDD_07.png"
+            }
+        },
+		{
+            "id": "Gameskin_IRDD_08",
+			"type": "assets/gameskins",
+            "name": "IRDD 08 Gameskin Asset",
+            "file": {
+                "sha256": "76820919D99168D45BC9B48108652E8ED67E58996FC0F794099C892CE6540DE7",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/gameskins/Gameskin_IRDD_08.png"
+            }
+        },
+		{
+            "id": "Gameskin_IRDD_09",
+			"type": "assets/gameskins",
+            "name": "IRDD 09 Gameskin Asset",
+            "file": {
+                "sha256": "7F680F32E32112A752D21C58859C58022026F4FFE054E7532BF26481AF792339",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/gameskins/Gameskin_IRDD_09.png"
+            }
+        },
+		{
+            "id": "Gameskin_IRDD_10",
+			"type": "assets/gameskins",
+            "name": "IRDD 10 Gameskin Asset",
+            "file": {
+                "sha256": "3D85A9BC35CB93FA22871BF8FDF88236EAF5862E0C8B4110272FE587FE097B69",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/gameskins/Gameskin_IRDD_10.png"
+            }
+        },
+		{
+            "id": "Gameskin_IRDD_11",
+			"type": "assets/gameskins",
+            "name": "IRDD 11 Gameskin Asset",
+            "file": {
+                "sha256": "87ADF61FAC6A04C6BC9CD0C872D54BE7F7E386B41F7966CDBD6C03E0551BF651",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/gameskins/Gameskin_IRDD_11.png"
+            }
+        },
+		{
+            "id": "Gameskin_IRDD_12",
+			"type": "assets/gameskins",
+            "name": "IRDD 12 Gameskin Asset",
+            "file": {
+                "sha256": "53B8CDEB728817C85607F6D907815C054DF239A18375AF6959163038081B736C",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/gameskins/Gameskin_IRDD_12.png"
+            }
+        },
+		{
+            "id": "Gameskin_IRDD_13",
+			"type": "assets/gameskins",
+            "name": "IRDD 13 Gameskin Asset",
+            "file": {
+                "sha256": "95962D482017152AD81ABA46B932C6A181922A43283F303920E664826106759E",
+                "url": "https://dl.iranddnet.ir/iranddnet/assets/gameskins/Gameskin_IRDD_13.png"
             }
         },
 		{
@@ -592,6 +763,6 @@
 	"developer": "Vexar",
 	"official_hostname": "iranddnet",
 	"official_address": "45.81.17.26",
-	"news": "|^rNew client version 1.2.7 released!|\n\n^wIranDDNet",
-	"version": "1.2.7"
+	"news": "|^rNew client version 1.2.8 released!|\n\n^wIranDDNet",
+	"version": "1.2.8"
 }
